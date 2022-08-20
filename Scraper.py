@@ -1,3 +1,4 @@
+from compat import resolve_url
 from selenium import webdriver
 import pandas as pd
 from selenium.webdriver.common.by import By
@@ -9,7 +10,7 @@ from time import sleep
 
 url = 'https://access-api.corelogic.asia/access/loginPage.html'
 
-state_list = ['RICHMOND',
+suburb_list = ['RICHMOND',
                 'COBURG',
                 'GEELONG',
                 'KNOXFIELD',
@@ -76,7 +77,7 @@ state_list = ['RICHMOND',
 
 
 
-def get_data(url):
+def get_suburbs(url, suburb_list):
 
     driver = webdriver.Chrome()
 
@@ -88,6 +89,47 @@ def get_data(url):
 
     search_bar = driver.find_element_by_class_name('floatLeft.searchArrow.ui-autocomplete-input.defaultText')
 
+    available_suburbs = []
+
+    for suburb in suburb_list:
+
+        search_bar.send_keys(suburb)
+
+        results = driver.find_elements_by_class_name('ui-menu-item')
+
+        for result in results:
+
+            if suburb + ' VIC' in result.text:
+
+                available_suburbs.append(result)
+
+            else:
+
+                pass
+
+        search_bar.clear()
+
+    for suburb in available_suburbs:
+
+        search_btn = driver.find_element_by_id('addressLink')
+
+        search_bar.send_keys(suburb)
+
+        search_btn.click()
+
+        properties = driver.find_elements_by_class_name('clickable')
+
+        for prop in properties:
+
+            prop.click()
+
+            
+        
+
+
+                
+
+    
     # search bar.sendkeys(state), for res in results(.ui-menu-item): find state + 'VIC', save_all, send_keys(for each res),
     # click search(#addressLink), find all (.clickable).url save, driver.get(url), suburb = res, 
     # property type = .overviewDetails-li.rep(proptype, ''), adress = #expandedAddress_icons, 

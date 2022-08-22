@@ -1,4 +1,5 @@
-from compat import resolve_url
+import json
+from matplotlib.font_manager import json_dump
 from selenium import webdriver
 import pandas as pd
 from selenium.webdriver.common.by import By
@@ -75,8 +76,6 @@ suburb_list = ['RICHMOND',
                 'CLIFTON HILL',
                 'KNOXFIELD']
 
-
-
 def get_suburbs(url, suburb_list):
 
     driver = webdriver.Chrome()
@@ -89,7 +88,7 @@ def get_suburbs(url, suburb_list):
 
     search_bar = driver.find_element_by_class_name('floatLeft.searchArrow.ui-autocomplete-input.defaultText')
 
-    available_suburbs = []
+    all_suburbs = []
 
     for suburb in suburb_list:
 
@@ -99,17 +98,41 @@ def get_suburbs(url, suburb_list):
 
         for result in results:
 
-            if suburb + ' VIC' in result.text:
+            result_text = result.text
 
-                available_suburbs.append(result)
+            if suburb + ' VIC' in result_text:
 
+                all_suburbs.append(result_text)
             else:
 
                 pass
 
         search_bar.clear()
 
-    for suburb in available_suburbs:
+    with open('sites_scraped.json') as f:
+
+        data = json.load(f)
+
+    with open('sites_scraped.json', 'w') as f:
+
+        data['Available Suburbs'].append(all_suburbs)
+
+        json.dump(data, f, indent=2)
+
+
+def get_properties_info(url, suburbs):
+
+    driver = webdriver.Chrome()
+
+    driver.get(url)
+
+    element = WebDriverWait(driver, 100).until(
+            EC.presence_of_element_located((By.ID, "firstAddressLink"))
+        )
+
+    search_bar = driver.find_element_by_class_name('floatLeft.searchArrow.ui-autocomplete-input.defaultText')
+
+    for suburb in suburbs['Available Suburbs']:
 
         search_btn = driver.find_element_by_id('addressLink')
 
@@ -127,9 +150,8 @@ def get_suburbs(url, suburb_list):
         
 
 
-                
 
-    
-    # search bar.sendkeys(state), for res in results(.ui-menu-item): find state + 'VIC', save_all, send_keys(for each res),
-    # click search(#addressLink), find all (.clickable).url save, driver.get(url), suburb = res, 
-    # property type = .overviewDetails-li.rep(proptype, ''), adress = #expandedAddress_icons, 
+
+# search bar.sendkeys(state), for res in results(.ui-menu-item): find state + 'VIC', save_all, send_keys(for each res),
+# click search(#addressLink), find all (.clickable).url save, driver.get(url), suburb = res, 
+# property type = .overviewDetails-li.rep(proptype, ''), adress = #expandedAddress_icons, 

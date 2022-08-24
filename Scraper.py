@@ -1,4 +1,6 @@
 import json
+from tkinter import W
+from matplotlib.pyplot import text
 from selenium import webdriver
 import pandas as pd
 from selenium.webdriver.common.by import By
@@ -85,7 +87,7 @@ def get_suburbs(url : str, suburb_list : list):
             EC.presence_of_element_located((By.ID, "firstAddressLink"))
         )
 
-    search_bar = driver.find_element_by_class_name('floatLeft.searchArrow.ui-autocomplete-input.defaultText')
+    search_bar = driver.find_element(By.CLASS_NAME,'floatLeft.searchArrow.ui-autocomplete-input.defaultText')
 
     all_suburbs = []
 
@@ -97,7 +99,7 @@ def get_suburbs(url : str, suburb_list : list):
 
         sleep(1)
 
-        results = driver.find_elements_by_class_name('ui-menu-item')
+        results = driver.find_elements(By.CLASS_NAME,'ui-menu-item')
 
         for result in results:
 
@@ -138,13 +140,11 @@ def get_properties_info(url : str, suburbs : list):
             EC.presence_of_element_located((By.ID, "firstAddressLink"))
         )
 
-    search_bar = driver.find_element_by_class_name('floatLeft.searchArrow.ui-autocomplete-input.defaultText')
-
-    properties_info = []
+    search_bar = driver.find_element(By.CLASS_NAME, 'floatLeft.searchArrow.ui-autocomplete-input.defaultText')
 
     for suburb in suburbs:
 
-        search_btn = driver.find_element_by_id('firstAddressLink')
+        search_btn = driver.find_element(By.ID, 'firstAddressLink')
 
         search_bar.send_keys(suburb)
 
@@ -154,37 +154,63 @@ def get_properties_info(url : str, suburbs : list):
                 EC.presence_of_element_located((By.CLASS_NAME, "clickable"))
             )
 
-        properties = driver.find_elements_by_class_name('thumbnail.noPhoto.clickable')
-        
-        properties_click = [prop.find_element_by_tag_name('a') for prop in properties]
+        properties = driver.find_elements(By.CLASS_NAME ,'thumbnail.noPhoto.clickable')
 
-        for i in range(len(properties_click)):
+        for i in range(len(properties)):
 
-            driver.execute_script('arguments[0].click();', properties_click[i])
+            prop = driver.find_element(By.XPATH, '/html/body/div[1]/div[2]/div[2]/div[6]/div[1]/div[%d]/div/div[3]/div[1]/h2/a' % (i+3))
+
+            prop_url = prop.get_attribute('href')
+
+            with open('Properties.json') as f:
+
+                prop_data = json.load(f)
+
+            is_scraped = False
+
+            for prop in prop_data['Properties']:
+
+                if prop_url in prop.values():
+                    
+                    is_scraped = True
+                    break
+                else:
+                    pass
+
+            if is_scraped:
+                break
+
+            prop.click()
 
             element = WebDriverWait(driver, 30).until(
-                EC.presence_of_element_located((By.CLASS_NAME, "overviewDetails-li"))
+                EC.presence_of_element_located((By.ID, "overview"))
             )
-
-            property_type = driver.find_element_by_class_name('overviewDetails-li').text.replace('Property Type: ', '')
             
-            address = driver.find_element_by_id('expandedAddress_icons').text
+            try:
 
-            bedrooms = driver.find_element_by_class_name('attribute.bedroom').text
+                property_type = driver.find_element(By.CLASS_NAME, 'overviewDetails-li').text.replace('Property Type: ', '')
+            
+            except Exception as e:
 
-            bathrooms = driver.find_element_by_class_name('attribute.bathroom').text
+                property_type = driver.find_element(By.CLASS_NAME, 'overviewDetails').text.replace('Property Type: ', '')
 
-            car_spaces = driver.find_element_by_class_name('attribute.carspace').text
+            address = driver.find_element(By.ID, 'expandedAddress_icons').text
+
+            bedrooms = driver.find_element(By.CLASS_NAME, 'attribute.bedroom').text
+
+            bathrooms = driver.find_element(By.CLASS_NAME, 'attribute.bathroom').text
+
+            car_spaces = driver.find_element(By.CLASS_NAME, 'attribute.carspace').text
     
-            land_size_approx = driver.find_element_by_class_name('attribute.landAreaEst').text
+            land_size_approx = driver.find_element(By.CLASS_NAME, 'attribute.landAreaEst').text
 
             try:
 
-                owners_list = driver.find_element_by_class_name('lastVert')
-                owners = [owner.text for owner in owners_list.find_element_by_tag_name('strong')]
+                owners_list = driver.find_element(By.CLASS_NAME, 'lastVert')
+                owners = [owner.text for owner in owners_list.find_elements(By.TAG_NAME, 'strong')]
             
-            except Exception:
-                print(Exception)
+            except Exception as e:
+                print(e)
                 owners = []
             
             owners_num = None
@@ -216,62 +242,66 @@ def get_properties_info(url : str, suburbs : list):
 
             #Legar description:
 
-            legal_panel = driver.find_element_by_id('legalPanel')
+            legal_panel = driver.find_element(By.ID, 'legalPanel')
 
-            legal_data = legal_panel.find_elements_by_tag_name('li')
+            legal_data = legal_panel.find_elements(By.TAG_NAME,'li')
 
             try:
 
-                rpd = legal_data[0].replace('RPD: ', '')
+                rpd = legal_data[0].text.replace('RPD: ', '')
 
-            except Exception:
+            except Exception as e:
 
+                print(e)
                 rpd = 'No info available'
 
             try:
 
-                vol_fol = legal_data[1].replace('Vol/Fol: ', '')
+                vol_fol = legal_data[1].text.replace('Vol/Fol: ', '')
 
-            except Exception:
-
+            except Exception as e:
+                print(e)
                 vol_fol = 'No info available'
 
             try:
 
-                la = legal_data[2].replace('LA: ', '')
+                la = legal_data[2].texttext.replace('LA: ', '')
 
-            except Exception:
-
+            except Exception as e:
+                print(e)
                 la = 'No info available'
 
             try:
 
-                issue_date = legal_data[3].replace('Issue Date: ', '')
+                issue_date = legal_data[3].text.replace('Issue Date: ', '')
 
-            except Exception:
-
+            except Exception as e:
+                print(e)
                 issue_date = 'No info available'
 
             #Last sale price
 
-            last_sale_panel = driver.find_element_by_id('lastSalePanel')
+            last_sale_panel = driver.find_element(By.ID, 'lastSalePanel')
 
-            last_sale_data = last_sale_panel.find_element_by_tag_name('li')
+            last_sale_data = last_sale_panel.find_elements(By.TAG_NAME, 'li')
 
             try:
 
-                last_sale_price = last_sale_data[0].replace('Sale Price: ', '')
+                last_sale_price = last_sale_data[0].text.replace('Sale Price: ', '')
 
-            except Exception:
-
+            except Exception as e:
+                print(e)
                 last_sale_price = 'No info available'
 
             try:
 
-                last_sale_date = last_sale_data[1].replace('Sale Date: ', '')
+                last_sale_date = last_sale_data[1].text.replace('Sale Date:', '')
 
-            except Exception:
+                if last_sale_date == '':
+                    last_sale_date = 'No info available'
 
+            except Exception as e:
+                print(e)
                 last_sale_date = 'No info available'
 
             property_info = {
@@ -295,12 +325,16 @@ def get_properties_info(url : str, suburbs : list):
 
             print(property_info)
 
-            properties_info.append(property_info)
+            prop_data['Properties'].append(property_info)
+
+            with open('Properties.json', 'w') as f:
+                
+                json.dump(prop_data, f, indent=4)
 
             driver.back()
 
         
-        next_btn = driver.find_element_by_xpath('/html/body/div[1]/div[2]/div[2]/div[6]/div[1]/div[23]/div[1]/div[3]/div/div/ul/li[6]')
+        next_btn = driver.find_element(By.XPATH, '/html/body/div[1]/div[2]/div[2]/div[6]/div[1]/div[23]/div[1]/div[3]/div/div/ul/li[6]')
         
         next_btn.click()
 

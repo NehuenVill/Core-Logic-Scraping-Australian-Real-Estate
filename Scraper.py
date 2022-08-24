@@ -1,5 +1,4 @@
 import json
-from matplotlib.font_manager import json_dump
 from selenium import webdriver
 import pandas as pd
 from selenium.webdriver.common.by import By
@@ -9,7 +8,7 @@ from time import sleep
 
 # Global variables:
 
-url = 'https://access-api.corelogic.asia/access/loginPage.html'
+url = 'https://rpp.rpdata.com/rpp/dashboard.html?execution=e4s1'
 
 suburb_list = ['RICHMOND',
                 'COBURG',
@@ -76,7 +75,7 @@ suburb_list = ['RICHMOND',
                 'CLIFTON HILL',
                 'KNOXFIELD']
 
-def get_suburbs(url, suburb_list):
+def get_suburbs(url : str, suburb_list : list):
 
     driver = webdriver.Chrome()
 
@@ -94,33 +93,42 @@ def get_suburbs(url, suburb_list):
 
         search_bar.send_keys(suburb)
 
+        element = WebDriverWait(driver, 30).until(EC.presence_of_element_located((By.CLASS_NAME, 'ui-menu-item')))
+
+        sleep(1)
+
         results = driver.find_elements_by_class_name('ui-menu-item')
 
         for result in results:
 
             result_text = result.text
 
-            if suburb + ' VIC' in result_text:
+            if 'VIC' in result_text:
 
                 all_suburbs.append(result_text)
+
+                print(result_text)
+                print('Saved')
             else:
+
+                print('Not Processed')
 
                 pass
 
         search_bar.clear()
 
-    with open('sites_scraped.json') as f:
+    with open('Available Suburbs.json') as f:
 
         data = json.load(f)
 
-    with open('sites_scraped.json', 'w') as f:
+    with open('Available Suburbs.json', 'w') as f:
 
         data['Available Suburbs'].append(all_suburbs)
 
         json.dump(data, f, indent=2)
 
 
-def get_properties_info(url, suburbs):
+def get_properties_info(url : str, suburbs : list):
 
     driver = webdriver.Chrome()
 
@@ -134,21 +142,29 @@ def get_properties_info(url, suburbs):
 
     properties_info = []
 
-    for suburb in suburbs['Available Suburbs']:
+    for suburb in suburbs:
 
-        search_btn = driver.find_element_by_id('addressLink')
+        search_btn = driver.find_element_by_id('firstAddressLink')
 
         search_bar.send_keys(suburb)
 
         search_btn.click()
 
-        properties = driver.find_elements_by_class_name('clickable')
+        element = WebDriverWait(driver, 30).until(
+                EC.presence_of_element_located((By.CLASS_NAME, "clickable"))
+            )
 
-        for prop in properties:
+        properties = driver.find_elements_by_class_name('thumbnail.noPhoto.clickable')
+        
+        properties_click = [prop.find_element_by_tag_name('a') for prop in properties]
 
-            prop_url = prop.get_attribute('href')
+        for i in range(len(properties_click)):
 
-            prop.click()
+            driver.execute_script('arguments[0].click();', properties_click[i])
+
+            element = WebDriverWait(driver, 30).until(
+                EC.presence_of_element_located((By.CLASS_NAME, "overviewDetails-li"))
+            )
 
             property_type = driver.find_element_by_class_name('overviewDetails-li').text.replace('Property Type: ', '')
             
@@ -162,14 +178,17 @@ def get_properties_info(url, suburbs):
     
             land_size_approx = driver.find_element_by_class_name('attribute.landAreaEst').text
 
-            owners_list = driver.find_element_by_class_name('lastVert')
+            try:
 
-            owners = [owner.text for owner in owners_list.find_element_by_tag_name('strong')]
-
+                owners_list = driver.find_element_by_class_name('lastVert')
+                owners = [owner.text for owner in owners_list.find_element_by_tag_name('strong')]
+            
+            except Exception:
+                print(Exception)
+                owners = []
+            
             owners_num = None
-
             mult_one_or_no_owner = ''
-
             owners_str = ''
 
             if len(owners) > 1:
@@ -201,13 +220,37 @@ def get_properties_info(url, suburbs):
 
             legal_data = legal_panel.find_elements_by_tag_name('li')
 
-            rpd = legal_data[0].replace('RPD: ', '')
+            try:
 
-            vol_fol = legal_data[1].replace('Vol/Fol: ', '')
+                rpd = legal_data[0].replace('RPD: ', '')
 
-            la = legal_data[2].replace('LA: ', '')
+            except Exception:
 
-            issue_date = legal_data[3].replace('Issue Date: ', '')
+                rpd = 'No info available'
+
+            try:
+
+                vol_fol = legal_data[1].replace('Vol/Fol: ', '')
+
+            except Exception:
+
+                vol_fol = 'No info available'
+
+            try:
+
+                la = legal_data[2].replace('LA: ', '')
+
+            except Exception:
+
+                la = 'No info available'
+
+            try:
+
+                issue_date = legal_data[3].replace('Issue Date: ', '')
+
+            except Exception:
+
+                issue_date = 'No info available'
 
             #Last sale price
 
@@ -215,9 +258,21 @@ def get_properties_info(url, suburbs):
 
             last_sale_data = last_sale_panel.find_element_by_tag_name('li')
 
-            last_sale_price = last_sale_data[0].replace('Sale Price: ', '')
+            try:
 
-            last_sale_date = last_sale_data[1].replace('Sale Date: ', '')
+                last_sale_price = last_sale_data[0].replace('Sale Price: ', '')
+
+            except Exception:
+
+                last_sale_price = 'No info available'
+
+            try:
+
+                last_sale_date = last_sale_data[1].replace('Sale Date: ', '')
+
+            except Exception:
+
+                last_sale_date = 'No info available'
 
             property_info = {
                 'Address' : address,
@@ -238,6 +293,8 @@ def get_properties_info(url, suburbs):
                 'Last Sale Date' : last_sale_date
             }
 
+            print(property_info)
+
             properties_info.append(property_info)
 
             driver.back()
@@ -247,3 +304,8 @@ def get_properties_info(url, suburbs):
         
         next_btn.click()
 
+
+
+with open('Available Suburbs.json') as f:
+
+    get_properties_info(url, json.load(f)['Available Suburbs'])

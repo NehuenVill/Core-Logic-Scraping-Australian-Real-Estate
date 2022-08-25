@@ -74,6 +74,21 @@
             "Legal Data": "RPD: LOT RES1 PS721593\nLA: Loddon\n",
             "Last Sale Price": "$0",
             "Last Sale Date": "No info available"
+        },
+        {
+            "Address": "Lees Road Richmond Plains, VIC, 3518",
+            "URL": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=35877490&index=5&q=Richmond+Plains+VIC+3518&qt=address&_qt=address&offset=1&sort=address&limit=20&view=property&mode=&radius=1.0Km&landuse=All",
+            "Property Type": "Other",
+            "Number of Bedrooms": "-",
+            "Number of Bathrooms": "-",
+            "Number of Car Spaces": "-",
+            "Approx. Land Size": "187.98Ha",
+            "Multiple Owners / One Owner / No Owner": "No Owner",
+            "Number of Owners": 0,
+            "Owner/s name": "Not specified",
+            "Legal Data": "RPD: LOT 1 TP584486 & CROWN LOT 35 SEC B:PH COONOOER EAST\nLA: Buloke\n",
+            "Last Sale Price": "$0",
+            "Last Sale Date": "No info available"
         }
     ]
 }

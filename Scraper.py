@@ -141,9 +141,9 @@ def get_properties_info(url : str, suburbs : list):
             EC.presence_of_element_located((By.ID, "firstAddressLink"))
         )
 
-    search_bar = driver.find_element(By.CLASS_NAME, 'floatLeft.searchArrow.ui-autocomplete-input.defaultText')
-
     for suburb in suburbs:
+
+        search_bar = driver.find_element(By.CLASS_NAME, 'floatLeft.searchArrow.ui-autocomplete-input.defaultText')
 
         search_btn = driver.find_element(By.ID, 'firstAddressLink')
 
@@ -163,6 +163,8 @@ def get_properties_info(url : str, suburbs : list):
 
             action = ActionChains(driver)
 
+            driver.execute_script("arguments[0].scrollIntoView(true);", prop)
+
             action.context_click(prop).perform()
 
             prop_url = prop.get_attribute('href')
@@ -175,17 +177,19 @@ def get_properties_info(url : str, suburbs : list):
 
             is_scraped = False
 
-            for prop in prop_data['Properties']:
+            for property in prop_data['Properties']:
 
-                if prop_url in prop.values():
-                    
+                if prop_url in property['URL']:
                     is_scraped = True
                     break
                 else:
                     pass
 
+            print(is_scraped)
+
             if is_scraped:
-                break
+                print(f'URL: {prop_url} already scraped')
+                continue
 
             prop = driver.find_element(By.XPATH, '/html/body/div[1]/div[2]/div[2]/div[6]/div[1]/div[%d]/div/div[3]/div[1]/h2/a' % (i+3))
 

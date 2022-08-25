@@ -7,6 +7,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from time import sleep
+from selenium.webdriver import ActionChains
 
 # Global variables:
 
@@ -154,13 +155,19 @@ def get_properties_info(url : str, suburbs : list):
                 EC.presence_of_element_located((By.CLASS_NAME, "clickable"))
             )
 
-        properties = driver.find_elements(By.CLASS_NAME ,'thumbnail.noPhoto.clickable')
+        properties = driver.find_elements(By.CLASS_NAME ,'clickable')
 
         for i in range(len(properties)):
 
             prop = driver.find_element(By.XPATH, '/html/body/div[1]/div[2]/div[2]/div[6]/div[1]/div[%d]/div/div[3]/div[1]/h2/a' % (i+3))
 
+            action = ActionChains(driver)
+
+            action.context_click(prop).perform()
+
             prop_url = prop.get_attribute('href')
+
+            print(prop_url)
 
             with open('Properties.json') as f:
 
@@ -179,6 +186,8 @@ def get_properties_info(url : str, suburbs : list):
 
             if is_scraped:
                 break
+
+            prop = driver.find_element(By.XPATH, '/html/body/div[1]/div[2]/div[2]/div[6]/div[1]/div[%d]/div/div[3]/div[1]/h2/a' % (i+3))
 
             prop.click()
 
@@ -246,38 +255,13 @@ def get_properties_info(url : str, suburbs : list):
 
             legal_data = legal_panel.find_elements(By.TAG_NAME,'li')
 
-            try:
+            legal_data_list = [item.text for item in legal_data] 
 
-                rpd = legal_data[0].text.replace('RPD: ', '')
+            legal_data_str = ''
 
-            except Exception as e:
+            for item in legal_data_list:
 
-                print(e)
-                rpd = 'No info available'
-
-            try:
-
-                vol_fol = legal_data[1].text.replace('Vol/Fol: ', '')
-
-            except Exception as e:
-                print(e)
-                vol_fol = 'No info available'
-
-            try:
-
-                la = legal_data[2].texttext.replace('LA: ', '')
-
-            except Exception as e:
-                print(e)
-                la = 'No info available'
-
-            try:
-
-                issue_date = legal_data[3].text.replace('Issue Date: ', '')
-
-            except Exception as e:
-                print(e)
-                issue_date = 'No info available'
+                legal_data_str += item + '\n'
 
             #Last sale price
 
@@ -315,10 +299,7 @@ def get_properties_info(url : str, suburbs : list):
                 'Multiple Owners / One Owner / No Owner' : mult_one_or_no_owner,
                 'Number of Owners' : owners_num,
                 'Owner/s name' : owners_str,
-                'RPD' : rpd,
-                'Vol/Fol' : vol_fol,
-                'LA' : la,
-                'Issue Date' : issue_date,
+                'Legal Data' : legal_data_str, 
                 'Last Sale Price' : last_sale_price,
                 'Last Sale Date' : last_sale_date
             }

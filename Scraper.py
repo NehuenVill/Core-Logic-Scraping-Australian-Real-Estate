@@ -8,6 +8,8 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from time import sleep
 from selenium.webdriver import ActionChains
+import re
+
 
 # Global variables:
 
@@ -292,9 +294,12 @@ def get_properties_info(url : str, suburbs : list):
                 print(e)
                 last_sale_date = 'No info available'
 
+            patt = r' VIC [0-9]*'
+
             property_info = {
-                'Address' : address,
+                'Address' : re.sub(patt, '', address).replace('Road','Rd').replace('Street', 'St'),
                 'URL' : prop_url,
+                'Suburb': re.sub(patt, '', suburb),
                 'Property Type': property_type,
                 'Number of Bedrooms' : bedrooms,
                 'Number of Bathrooms' : bathrooms,

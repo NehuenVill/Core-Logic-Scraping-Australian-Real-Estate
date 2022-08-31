@@ -1,6 +1,4 @@
 import json
-from tkinter import W
-from matplotlib.pyplot import text
 from selenium import webdriver
 import pandas as pd
 from selenium.webdriver.common.by import By
@@ -157,21 +155,27 @@ def get_properties_info(url : str, suburbs : list):
                 EC.presence_of_element_located((By.CLASS_NAME, "clickable"))
             )
 
-        properties = driver.find_elements(By.CLASS_NAME ,'clickable')
+        first_prop = driver.find_element(By.XPATH, '/html/body/div[1]/div[2]/div[2]/div[6]/div[1]/div[3]/div/div[3]/div[1]/h2/a')
 
-        for i in range(len(properties)):
+        action = ActionChains(driver)
 
-            prop = driver.find_element(By.XPATH, '/html/body/div[1]/div[2]/div[2]/div[6]/div[1]/div[%d]/div/div[3]/div[1]/h2/a' % (i+3))
+        sleep(0.5)
 
-            action = ActionChains(driver)
+        action.context_click(first_prop).perform()
 
-            driver.execute_script("arguments[0].scrollIntoView(true);", prop)
+        first_prop.click()
 
-            action.context_click(prop).perform()
+        while True:
 
-            prop_url = prop.get_attribute('href')
+            element = WebDriverWait(driver, 30).until(
+                EC.presence_of_element_located((By.ID, "overview"))
+            )
 
-            print(prop_url)
+            patt_url = r'&propertyDetailNav.*M'
+
+            prop_url = driver.current_url
+
+            prop_url = re.sub(patt_url, '',prop_url)
 
             with open('Properties.json') as f:
 
@@ -190,17 +194,33 @@ def get_properties_info(url : str, suburbs : list):
             print(is_scraped)
 
             if is_scraped:
+                
                 print(f'URL: {prop_url} already scraped')
-                continue
 
-            prop = driver.find_element(By.XPATH, '/html/body/div[1]/div[2]/div[2]/div[6]/div[1]/div[%d]/div/div[3]/div[1]/h2/a' % (i+3))
+                try:
 
-            prop.click()
+                    element = WebDriverWait(driver, 3).until(
+                    EC.presence_of_element_located((By.ID, 'propertyDetailNext'))
+                    )
 
-            element = WebDriverWait(driver, 30).until(
-                EC.presence_of_element_located((By.ID, "overview"))
-            )
-            
+                    next_prop = driver.find_element(By.ID, 'propertyDetailNext')
+                    next_prop.click()
+                    continue
+
+                except Exception as e:
+
+                    back_to_results = driver.find_element(By.ID, 'propertyDetailNavBackToResultsIcon')
+
+                    sleep(0.5)
+                
+                    back_to_results.click()
+
+                    element = WebDriverWait(driver, 30).until(
+                    EC.presence_of_element_located((By.CLASS_NAME, "floatLeft.searchArrow.ui-autocomplete-input.defaultText"))
+                    )
+
+                    break
+                
             try:
 
                 property_type = driver.find_element(By.CLASS_NAME, 'overviewDetails-li').text.replace('Property Type: ', '')
@@ -267,7 +287,7 @@ def get_properties_info(url : str, suburbs : list):
 
             for item in legal_data_list:
 
-                legal_data_str += item + '\n'
+                legal_data_str += item + ', '
 
             #Last sale price
 
@@ -296,8 +316,12 @@ def get_properties_info(url : str, suburbs : list):
 
             patt = r' VIC [0-9]*'
 
+            patt_add = r', VIC, [0-9]*'
+
+            address_op = re.sub(patt_add, '', address)
+
             property_info = {
-                'Address' : re.sub(patt, '', address).replace('Road','Rd').replace('Street', 'St'),
+                'Address' : address_op.replace('Road','Rd').replace('Street', 'St'),
                 'URL' : prop_url,
                 'Suburb': re.sub(patt, '', suburb),
                 'Property Type': property_type,
@@ -321,12 +345,46 @@ def get_properties_info(url : str, suburbs : list):
                 
                 json.dump(prop_data, f, indent=4)
 
-            driver.back()
+            try:
 
-        
-        next_btn = driver.find_element(By.XPATH, '/html/body/div[1]/div[2]/div[2]/div[6]/div[1]/div[23]/div[1]/div[3]/div/div/ul/li[6]')
-        
-        next_btn.click()
+                element = WebDriverWait(driver, 3).until(
+                EC.presence_of_element_located((By.ID, 'propertyDetailNext'))
+                )
+
+                next_prop = driver.find_element(By.ID, 'propertyDetailNext')
+                next_prop.click()
+
+            except Exception as e:
+
+                back_to_results = driver.find_element(By.ID, 'propertyDetailNavBackToResultsIcon')
+
+                sleep(0.5)
+                
+                back_to_results.click()
+
+                element = WebDriverWait(driver, 30).until(
+                EC.presence_of_element_located((By.CLASS_NAME, "floatLeft.searchArrow.ui-autocomplete-input.defaultText"))
+                )
+
+                break
+            
+
+
+def save_props(Prop_data):
+
+    df = pd.DataFrame(Prop_data, columns=['Address', 'URL', 'Suburb',
+                                    'Property Type', 'Number of Bedrooms',
+                                    'Number of Bathrooms', 'Number of Car Spaces',
+                                    'Approx. Land Size', 'Multiple Owners / One Owner / No Owner',
+                                    'Number of Owners', 'Owner/s name', 'Legal Data',
+                                    'Last Sale Price', 'Last Sale Date'])
+
+    df.to_excel("Properties_sample.xlsx", index=False, columns=['Address', 'URL', 'Suburb',
+                                    'Property Type', 'Number of Bedrooms',
+                                    'Number of Bathrooms', 'Number of Car Spaces',
+                                    'Approx. Land Size', 'Multiple Owners / One Owner / No Owner',
+                                    'Number of Owners', 'Owner/s name', 'Legal Data',
+                                    'Last Sale Price', 'Last Sale Date'])
 
 
 

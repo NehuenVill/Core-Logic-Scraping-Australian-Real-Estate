@@ -1,3 +1,5 @@
+from dataclasses import replace
+from enum import unique
 import json
 from selenium import webdriver
 import pandas as pd
@@ -7,6 +9,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from time import sleep
 from selenium.webdriver import ActionChains
 import re
+from selenium.common.exceptions import NoSuchElementException
 
 
 # Global variables:
@@ -131,7 +134,7 @@ def get_suburbs(url : str, suburb_list : list):
         json.dump(data, f, indent=2)
 
 
-def get_properties_info(url : str, suburbs : list):
+def get_links(url : str, suburbs : list):
 
     driver = webdriver.Chrome()
 
@@ -142,189 +145,340 @@ def get_properties_info(url : str, suburbs : list):
         )
 
     for suburb in suburbs:
+        
+        try:
 
-        search_bar = driver.find_element(By.CLASS_NAME, 'floatLeft.searchArrow.ui-autocomplete-input.defaultText')
+            search_bar = driver.find_element(By.CLASS_NAME, 'floatLeft.searchArrow.ui-autocomplete-input.defaultText')
+        
+        except NoSuchElementException:
 
-        search_btn = driver.find_element(By.ID, 'firstAddressLink')
-
-        search_bar.send_keys(suburb)
-
-        search_btn.click()
-
-        element = WebDriverWait(driver, 30).until(
-                EC.presence_of_element_located((By.CLASS_NAME, "clickable"))
-            )
-
-        first_prop = driver.find_element(By.XPATH, '/html/body/div[1]/div[2]/div[2]/div[6]/div[1]/div[3]/div/div[3]/div[1]/h2/a')
-
-        action = ActionChains(driver)
+            search_bar = driver.find_element(By.XPATH, '/html/body/div[1]/div[2]/div[2]/div[3]/div[1]/div[3]/div[1]/div[1]/input')
 
         sleep(0.5)
 
-        action.context_click(first_prop).perform()
+        try:
 
-        first_prop.click()
+            search_btn = driver.find_element(By.ID, 'firstAddressLink')
+        
+        except NoSuchElementException:
+
+            search_btn = driver.find_element(By.XPATH, '/html/body/div[1]/div[2]/div[2]/div[3]/div[1]/div[3]/div[1]/a')
+
+        search_bar.clear()
+
+        sleep(0.5)
+
+        search_bar.send_keys(suburb)
+
+        sleep(0.3)
+        
+        search_btn.click()
+        
+        element = WebDriverWait(driver, 30).until(
+                EC.presence_of_element_located((By.CLASS_NAME, "clickable"))
+            )
+        
+        checkbox = driver.find_element(By.XPATH, '//*[@id="wrapper"]/div[2]/div[2]/div[5]/div[1]/ul/li[1]/div/div[1]/div[2]/ul/li[2]/input')
+
+        checkbox.click()
+
+        refine_btn = driver.find_element(By.XPATH, '/html/body/div[1]/div[2]/div[2]/div[5]/div[1]/ul/li[1]/div/div[1]/a[1]')
+
+        refine_btn.click()
+
+        print('Visible')
+        
+        element = WebDriverWait(driver, 5).until(
+                EC.presence_of_element_located((By.ID, "spinner"))
+            )
+
+        element = WebDriverWait(driver, 30).until(
+            EC.invisibility_of_element_located((By.ID, "spinner"))
+            )
+
+        print('Not visible')
+
+        try:
+            properties = driver.find_elements(By.CSS_SELECTOR ,'a.clickable')
+
+        except NoSuchElementException:
+
+            
+
+            continue
+
+        # Start of experimental code:
+
+        unique_addresses = []
+
+        unique_hrefs = []
 
         while True:
 
-            element = WebDriverWait(driver, 30).until(
-                EC.presence_of_element_located((By.ID, "overview"))
-            )
+            for i in range(len(properties)):
 
-            patt_url = r'&propertyDetailNav.*M'
+                prop = driver.find_element(By.XPATH, '/html/body/div[1]/div[2]/div[2]/div[6]/div[1]/div[%d]/div/div[3]/div[1]/h2/a' % (i+3))
+                
+                full_addres = prop.text
 
-            prop_url = driver.current_url
+                add_patt = r'[0-9]*/'
 
-            prop_url = re.sub(patt_url, '',prop_url)
+                st_addres = re.sub(add_patt, '', full_addres)
 
-            with open('Properties.json') as f:
+                last_item = ''
 
-                prop_data = json.load(f)
+                if unique_addresses:
 
-            is_scraped = False
+                    last_item = re.sub(r'1-[0-9]* ', '', unique_addresses[len(unique_addresses)-1])
 
-            for property in prop_data['Properties']:
-
-                if prop_url in property['URL']:
-                    is_scraped = True
-                    break
                 else:
-                    pass
 
-            print(is_scraped)
+                    last_item = ''
 
-            if is_scraped:
+                if st_addres in last_item:
+
+                    units = re.search(r'[0-9]*/', full_addres)
+
+                    if units:
+
+                        unique_addresses.pop()
+
+                        units = units.group(1).replace('/', '')
+
+                        unique_addresses.append(f'1-{units} {st_addres}')
+
+                else:
+                    
+                    units = re.search(r'[0-9]*/', full_addres)
+
+                    if units:
+
+                        units = units.group(1).replace('/', '')
+
+                        unique_addresses.append(f'1-{units} {st_addres}')
+
+                    else:
+
+                        unique_addresses.append(f'1-1 {st_addres}')
+
+                    action = ActionChains(driver)
+            
+                    driver.execute_script("arguments[0].scrollIntoView(true);", prop)
                 
-                print(f'URL: {prop_url} already scraped')
-
-                try:
-
-                    element = WebDriverWait(driver, 3).until(
-                    EC.presence_of_element_located((By.ID, 'propertyDetailNext'))
-                    )
-
-                    next_prop = driver.find_element(By.ID, 'propertyDetailNext')
-                    next_prop.click()
-                    continue
-
-                except Exception as e:
-
-                    back_to_results = driver.find_element(By.ID, 'propertyDetailNavBackToResultsIcon')
-
-                    sleep(0.5)
+                    action.context_click(prop).perform()
                 
-                    back_to_results.click()
-
-                    element = WebDriverWait(driver, 30).until(
-                    EC.presence_of_element_located((By.CLASS_NAME, "floatLeft.searchArrow.ui-autocomplete-input.defaultText"))
-                    )
-
-                    break
+                    prop_url = prop.get_attribute('href')
                 
+                    print(prop_url)
+                
+                    with open('Properties.json') as f:
+                
+                        prop_data = json.load(f)
+                
+                    is_scraped = False
+                
+                    for property in prop_data['Properties']:
+                
+                        if prop_url in property['URL']:
+                
+                            is_scraped = True
+                
+                            break
+                
+                        else:
+                
+                            pass
+                
+                    print(is_scraped)
+                
+                    if is_scraped:
+                
+                        print(f'URL: {prop_url} already scraped')
+                
+                        continue
+
+                    else:
+
+                        unique_hrefs.append(prop_url)
+
+                print(f"""List of unique addresses:
+
+                {unique_addresses}
+                
+                List of unique hrefs:
+                
+                {unique_hrefs}""")
+
             try:
 
-                property_type = driver.find_element(By.CLASS_NAME, 'overviewDetails-li').text.replace('Property Type: ', '')
+                next_btn = driver.find_element(By.XPATH, '/html/body/div[1]/div[2]/div[2]/div[6]/div[1]/div[23]/div[1]/div[3]/div/div/ul/li[6]')
+        
+                next_btn.click()
+
+                element = WebDriverWait(driver, 5).until(
+                    EC.presence_of_element_located((By.ID, "spinner"))
+                    )
+
+                element = WebDriverWait(driver, 30).until(
+                    EC.invisibility_of_element_located((By.ID, "spinner"))
+                    )
+
+            except NoSuchElementException:
+
+                
+
+                break
+
+        for i in range(len(unique_addresses)):
+
+            output = {
+                'Addres' : unique_addresses[i],
+                'Href' : unique_hrefs[i],
+                'Suburb' : suburb
+            }
+
+            with open('Available Suburbs.json') as f:
+
+                data = json.load(f)
+
+            with open('Available Suburbs.json', 'w') as f:
+
+                data['Addresses and hrefs'].append(output)
+
+                json.dump(data, f, indent=2)
+
+
+def get_properties_info(url : str, properties : list):
             
-            except Exception as e:
+    # Algorith to extract information
 
-                property_type = driver.find_element(By.CLASS_NAME, 'overviewDetails').text.replace('Property Type: ', '')
+    # Next: Adapt the code to scrape info from the hrefs of the json file with all the
+    # unique addresses and hrefs, use the addresses as output.
+    driver = webdriver.Chrome()
 
-            address = driver.find_element(By.ID, 'expandedAddress_icons').text
+    driver.get(url)
+
+    element = WebDriverWait(driver, 100).until(
+            EC.presence_of_element_located((By.ID, "firstAddressLink"))
+        )
+
+    for property in properties['Addesses and hrefs']:
+  
+        driver.execute_script(f"window.open({property['Href']}, 'secondtab');")
+        
+        driver.switch_to.window("secondtab")
+            
+        element = WebDriverWait(driver, 30).until(
+                    EC.presence_of_element_located((By.ID, "overview"))
+            )
+            
+        try:
+
+            property_type = driver.find_element(By.CLASS_NAME, 'overviewDetails-li').text.replace('Property Type: ', '')
+                
+        except NoSuchElementException:
+
+            property_type = driver.find_element(By.CLASS_NAME, 'overviewDetails').text.replace('Property Type: ', '')
 
             bedrooms = driver.find_element(By.CLASS_NAME, 'attribute.bedroom').text
 
             bathrooms = driver.find_element(By.CLASS_NAME, 'attribute.bathroom').text
 
             car_spaces = driver.find_element(By.CLASS_NAME, 'attribute.carspace').text
-    
+        
             land_size_approx = driver.find_element(By.CLASS_NAME, 'attribute.landAreaEst').text
 
-            try:
+        try:
 
-                owners_list = driver.find_element(By.CLASS_NAME, 'lastVert')
-                owners = [owner.text for owner in owners_list.find_elements(By.TAG_NAME, 'strong')]
-            
-            except Exception as e:
-                print(e)
-                owners = []
-            
-            owners_num = None
-            mult_one_or_no_owner = ''
-            owners_str = ''
-
-            if len(owners) > 1:
+            owners_list = driver.find_element(By.CLASS_NAME, 'lastVert')
+            owners = [owner.text for owner in owners_list.find_elements(By.TAG_NAME, 'strong')]
                 
-                owners_num = len(owners)
-                mult_one_or_no_owner = 'Multiple owners'
+        except Exception as e:
+            
+            owners = []
+                
+        owners_num = None
+        mult_one_or_no_owner = ''
+        owners_str = ''
 
-                for owner in owners:
+        if len(owners) > 1:
+                
+            owners_num = len(owners)
+            mult_one_or_no_owner = 'Multiple owners'
 
-                    owners_str += ', ' + owner
+            for owner in owners:
 
-            elif len(owners) == 1:
+                owners_str += ', ' + owner
 
-                owners_num = 1
-                mult_one_or_no_owner = 'One owner'
+        elif len(owners) == 1:
 
-                owners_str = owners[0]
+            owners_num = 1
+            mult_one_or_no_owner = 'One owner'
 
-            else:
+            owners_str = owners[0]
 
-                owners_num = 0
-                mult_one_or_no_owner = 'No Owner'
+        else:
 
-                owners_str = 'Not specified'
+            owners_num = 0
+            mult_one_or_no_owner = 'No Owner'
 
-            #Legar description:
+            owners_str = 'Not specified'
 
-            legal_panel = driver.find_element(By.ID, 'legalPanel')
+        #Legar description:
 
-            legal_data = legal_panel.find_elements(By.TAG_NAME,'li')
+        legal_panel = driver.find_element(By.ID, 'legalPanel')
 
-            legal_data_list = [item.text for item in legal_data] 
+        legal_data = legal_panel.find_elements(By.TAG_NAME,'li')
 
-            legal_data_str = ''
+        legal_data_list = [item.text for item in legal_data] 
 
-            for item in legal_data_list:
+        legal_data_str = ''
 
-                legal_data_str += item + ', '
+        for item in legal_data_list:
 
-            #Last sale price
+            legal_data_str += item + ', '
 
-            last_sale_panel = driver.find_element(By.ID, 'lastSalePanel')
+        #Last sale price
 
-            last_sale_data = last_sale_panel.find_elements(By.TAG_NAME, 'li')
+        last_sale_panel = driver.find_element(By.ID, 'lastSalePanel')
 
-            try:
+        last_sale_data = last_sale_panel.find_elements(By.TAG_NAME, 'li')
 
-                last_sale_price = last_sale_data[0].text.replace('Sale Price: ', '')
+        try:
+            last_sale_price = last_sale_data[0].text.replace('Sale Price: ', '')
 
-            except Exception as e:
-                print(e)
-                last_sale_price = 'No info available'
+        except Exception as e:
+            
+            last_sale_price = 'No info available'
 
-            try:
+        try:
 
-                last_sale_date = last_sale_data[1].text.replace('Sale Date:', '')
+            last_sale_date = last_sale_data[1].text.replace('Sale Date:', '')
 
-                if last_sale_date == '':
-                    last_sale_date = 'No info available'
-
-            except Exception as e:
-                print(e)
+            if last_sale_date == '':
                 last_sale_date = 'No info available'
+                    
+        except Exception as e:
+            
+            last_sale_date = 'No info available'
+        patt = r' VIC [0-9]*'
 
-            patt = r' VIC [0-9]*'
+        patt_add = r', VIC, [0-9]*'
 
-            patt_add = r', VIC, [0-9]*'
+        address_op = re.sub(patt_add, '', property['Addres'])
 
-            address_op = re.sub(patt_add, '', address)
+        units_patt = r'1-[0-9]*'
 
-            property_info = {
-                'Address' : address_op.replace('Road','Rd').replace('Street', 'St'),
-                'URL' : prop_url,
-                'Suburb': re.sub(patt, '', suburb),
+        units_match = re.search(units_patt, address_op)
+
+        units = units_match.group(1),replace('1-', '')
+
+        property_info = {
+                'Address' : address_op,
+                'URL' : property['Href'],
+                'Suburb': properties['Suburb'],
                 'Property Type': property_type,
+                'Number of units' : units,
                 'Number of Bedrooms' : bedrooms,
                 'Number of Bathrooms' : bathrooms,
                 'Number of Car Spaces' : car_spaces,
@@ -337,37 +491,20 @@ def get_properties_info(url : str, suburbs : list):
                 'Last Sale Date' : last_sale_date
             }
 
-            print(property_info)
+        print(property_info)
+
+        with open('Properties.json') as f:
+
+            prop_data = json.load(f)
 
             prop_data['Properties'].append(property_info)
 
-            with open('Properties.json', 'w') as f:
-                
-                json.dump(prop_data, f, indent=4)
+        with open('Properties.json', 'w') as f:
+                    
+            json.dump(prop_data, f, indent=4)
 
-            try:
+        driver.close()
 
-                element = WebDriverWait(driver, 3).until(
-                EC.presence_of_element_located((By.ID, 'propertyDetailNext'))
-                )
-
-                next_prop = driver.find_element(By.ID, 'propertyDetailNext')
-                next_prop.click()
-
-            except Exception as e:
-
-                back_to_results = driver.find_element(By.ID, 'propertyDetailNavBackToResultsIcon')
-
-                sleep(0.5)
-                
-                back_to_results.click()
-
-                element = WebDriverWait(driver, 30).until(
-                EC.presence_of_element_located((By.CLASS_NAME, "floatLeft.searchArrow.ui-autocomplete-input.defaultText"))
-                )
-
-                break
-            
 
 
 def save_props(Prop_data):
@@ -390,4 +527,4 @@ def save_props(Prop_data):
 
 with open('Available Suburbs.json') as f:
 
-    get_properties_info(url, json.load(f)['Available Suburbs'])
+    get_links(url, json.load(f)['Available Suburbs'])

@@ -9,7 +9,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from time import sleep
 from selenium.webdriver import ActionChains
 import re
-from selenium.common.exceptions import NoSuchElementException
+from selenium.common.exceptions import NoSuchElementException, StaleElementReferenceException
 
 
 # Global variables:
@@ -144,7 +144,7 @@ def get_links(url : str, suburbs : list):
             EC.presence_of_element_located((By.ID, "firstAddressLink"))
         )
 
-    for suburb in suburbs:
+    for suburb in suburbs[1:]:
         
         try:
 
@@ -184,6 +184,8 @@ def get_links(url : str, suburbs : list):
 
         refine_btn = driver.find_element(By.XPATH, '/html/body/div[1]/div[2]/div[2]/div[5]/div[1]/ul/li[1]/div/div[1]/a[1]')
 
+        sleep(1)
+
         refine_btn.click()
 
         print('Visible')
@@ -198,12 +200,14 @@ def get_links(url : str, suburbs : list):
 
         print('Not visible')
 
+        sleep(10)
+
+        print('Starting scraping')
+
         try:
             properties = driver.find_elements(By.CSS_SELECTOR ,'a.clickable')
 
         except NoSuchElementException:
-
-            
 
             continue
 
@@ -215,45 +219,59 @@ def get_links(url : str, suburbs : list):
 
         while True:
 
+            #Reminder: Fix the units finder, addresses in general.
+
             for i in range(len(properties)):
 
-                prop = driver.find_element(By.XPATH, '/html/body/div[1]/div[2]/div[2]/div[6]/div[1]/div[%d]/div/div[3]/div[1]/h2/a' % (i+3))
-                
+                prop = wait_get_element(driver, (By.XPATH, '/html/body/div[1]/div[2]/div[2]/div[6]/div[1]/div[%d]/div/div[3]/div[1]/h2/a' % (i+3)))
+
                 full_addres = prop.text
+
+                print(f' full addres: {full_addres}')
 
                 add_patt = r'[0-9]*/'
 
                 st_addres = re.sub(add_patt, '', full_addres)
 
+                print(f'st add: {st_addres}')
+
                 last_item = ''
 
                 if unique_addresses:
 
-                    last_item = re.sub(r'1-[0-9]* ', '', unique_addresses[len(unique_addresses)-1])
+                    last_item = re.sub(r'1-[0-9]* ', '', unique_addresses[len(unique_addresses)-1], 1)
 
                 else:
 
                     last_item = ''
 
+                print(f'last item: {last_item}')
+
                 if st_addres in last_item:
 
-                    units = re.search(r'[0-9]*/', full_addres)
+                    units = re.search(r'([0-9]*/)', full_addres)
 
                     if units:
-
-                        unique_addresses.pop()
+                        if unique_addresses:
+                            unique_addresses.pop()
+                        else:
+                            pass
 
                         units = units.group(1).replace('/', '')
+
+                        print(f'Number of units: {units}')
 
                         unique_addresses.append(f'1-{units} {st_addres}')
 
                 else:
                     
-                    units = re.search(r'[0-9]*/', full_addres)
+                    units = re.search(r'([0-9]*/)', full_addres)
 
                     if units:
 
                         units = units.group(1).replace('/', '')
+
+                        print(f'Number of units: {units}')
 
                         unique_addresses.append(f'1-{units} {st_addres}')
 
@@ -262,57 +280,31 @@ def get_links(url : str, suburbs : list):
                         unique_addresses.append(f'1-1 {st_addres}')
 
                     action = ActionChains(driver)
+
+                    prop = wait_get_element(driver, (By.XPATH, '/html/body/div[1]/div[2]/div[2]/div[6]/div[1]/div[%d]/div/div[3]/div[1]/h2/a' % (i+3)))
             
                     driver.execute_script("arguments[0].scrollIntoView(true);", prop)
                 
+                    prop = wait_get_element(driver, (By.XPATH, '/html/body/div[1]/div[2]/div[2]/div[6]/div[1]/div[%d]/div/div[3]/div[1]/h2/a' % (i+3)))
+
                     action.context_click(prop).perform()
                 
+                    prop = wait_get_element(driver, (By.XPATH, '/html/body/div[1]/div[2]/div[2]/div[6]/div[1]/div[%d]/div/div[3]/div[1]/h2/a' % (i+3)))
+
                     prop_url = prop.get_attribute('href')
                 
-                    print(prop_url)
+                    print(f'prop URL: {prop_url}')
                 
-                    with open('Properties.json') as f:
-                
-                        prop_data = json.load(f)
-                
-                    is_scraped = False
-                
-                    for property in prop_data['Properties']:
-                
-                        if prop_url in property['URL']:
-                
-                            is_scraped = True
-                
-                            break
-                
-                        else:
-                
-                            pass
-                
-                    print(is_scraped)
-                
-                    if is_scraped:
-                
-                        print(f'URL: {prop_url} already scraped')
-                
-                        continue
-
-                    else:
-
-                        unique_hrefs.append(prop_url)
-
-                print(f"""List of unique addresses:
-
-                {unique_addresses}
-                
-                List of unique hrefs:
-                
-                {unique_hrefs}""")
+                    unique_hrefs.append(prop_url)
 
             try:
+                try:
+                    next_btn = wait_get_element(driver, (By.XPATH, '/html/body/div[1]/div[2]/div[2]/div[6]/div[1]/div[23]/div[1]/div[3]/div/div/ul/li[6]'))
+                except NoSuchElementException:
+                    next_btn = wait_get_element(driver, (By.XPATH, '/html/body/div[1]/div[2]/div[2]/div[6]/div[1]/div[23]/div[1]/div[3]/div/div/ul/li[5]'))
 
-                next_btn = driver.find_element(By.XPATH, '/html/body/div[1]/div[2]/div[2]/div[6]/div[1]/div[23]/div[1]/div[3]/div/div/ul/li[6]')
-        
+                driver.execute_script("arguments[0].scrollIntoView(true);", next_btn)
+
                 next_btn.click()
 
                 element = WebDriverWait(driver, 5).until(
@@ -323,9 +315,9 @@ def get_links(url : str, suburbs : list):
                     EC.invisibility_of_element_located((By.ID, "spinner"))
                     )
 
-            except NoSuchElementException:
+            except Exception as e:
 
-                
+                print(e)
 
                 break
 
@@ -467,7 +459,7 @@ def get_properties_info(url : str, properties : list):
 
         address_op = re.sub(patt_add, '', property['Addres'])
 
-        units_patt = r'1-[0-9]*'
+        units_patt = r'(1-[0-9]*)'
 
         units_match = re.search(units_patt, address_op)
 
@@ -505,6 +497,14 @@ def get_properties_info(url : str, properties : list):
 
         driver.close()
 
+
+def ref_click(driver, loc):
+
+    WebDriverWait(driver, 10).until(EC.presence_of_element_located(loc)).click()
+
+def wait_get_element(driver, loc):
+
+    return WebDriverWait(driver, 10).until(EC.presence_of_element_located(loc))
 
 
 def save_props(Prop_data):

@@ -38,7 +38,6 @@
     "Balwyn Road Balwyn VIC 3103",
     "Balwyn Road Bulleen VIC 3105",
     "Balwyn Road Canterbury VIC 3126",
-    "Balwyn North VIC 3104",
     "Kew East VIC 3102",
     "Kew VIC 3101",
     "Kewell VIC 3390",
@@ -60,14 +59,13 @@
     "Vermont Avenue Warragul VIC 3820",
     "Vermont Court Blackburn South VIC 3130",
     "Mount Waverley VIC 3149",
-    "Bentleigh East VIC 3165",
-    "Kew East VIC 3102",
+    "Bentleigh East VIC 3165(check)",
     "Hampton East VIC 3188",
     "Hampton Park VIC 3976",
     "Hampton VIC 3188",
     "Hampton Avenue Sunshine VIC 3020",
     "Hampton Close Narre Warren VIC 3805",
-    "Fitzroy North VIC 3068",
+    "Fitzroy North VIC 3068 (check)",
     "Fitzroy VIC 3065",
     "Fitzroy Avenue Frankston VIC 3199",
     "Parkdale VIC 3195",
@@ -81,17 +79,17 @@
     "Elwood Close Corinella VIC 3984",
     "Elwood Drive Strathdale VIC 3550",
     "Elwood Foreshore Elwood VIC 3184",
-    "Brighton East VIC 3187",
+    "Brighton East VIC 3187 (check)",
     "Brighton VIC 3186",
     "Mount Martha VIC 3934",
     "Mount Martha Road Mount Martha VIC 3934",
     "St Kilda East VIC 3183",
-    "St Kilda VIC 3182",
+    "St Kilda VIC 3182 (check)",
     "St Kilda West VIC 3182",
     "St Kilda Avenue Upwey VIC 3158",
     "St Kilda Parade Taylors Hill VIC 3037",
     "East Geelong VIC 3219",
-    "Mornington VIC 3931",
+    "Mornington VIC 3931 (check)",
     "Mornington Avenue Tarneit VIC 3029",
     "Seaford VIC 3198",
     "Seaford Circuit Truganina VIC 3029",
@@ -106,8 +104,6 @@
     "Black Rock VIC 3193",
     "Black Rock Road Camperdown VIC 3260",
     "Black Rock Road Neilborough VIC 3570",
-    "Brighton East VIC 3187",
-    "Brighton VIC 3186",
     "Clayton South VIC 3169",
     "Clayton VIC 3168",
     "St Andrews Beach VIC 3941",
@@ -156,7 +152,6 @@
     "Chelsea Avenue Ocean Grove VIC 3226",
     "Chelsea Boulevard Strathdale VIC 3550",
     "Sandringham VIC 3191",
-    "East Geelong VIC 3219",
     "Belmont VIC 3216",
     "Belmont Avenue Clayton VIC 3168",
     "Belmont Avenue Dandenong North VIC 3175",
@@ -181,7 +176,7 @@
     "Burwood Avenue Hawthorn East VIC 3123",
     "Burwood Avenue Ringwood VIC 3134",
     "Burwood Avenue Shepparton VIC 3630",
-    "Burwood Avenue Sunshine North VIC 3020",
+    "Burwood Avenue Sunshine North VIC 3020"
   ],
   "Addresses and hrefs": [
     {
@@ -9568,6 +9563,2441 @@
       "Addres": "1-1 35 York Street Richmond, VIC, 3121",
       "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=12750415&index=19&q=Richmond+VIC+3121&qt=address&_qt=address&offset=504&sort=address&limit=20&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
       "Suburb": "Richmond VIC 3121"
+    },
+    {
+      "Addres": "1-1 27 Acheson Place Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10553328&index=0&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=1&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 29 Acheson Place Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10553332&index=1&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=1&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 38 Acheson Place Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=44941813&index=2&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=1&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-6 99 Adler Grove Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=47684855&index=3&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=1&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 1A Adnette Court Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10553403&index=4&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=1&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 7 Adnette Court Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=14387223&index=5&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=1&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-3 16 Albert Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=47798158&index=6&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=1&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 Alexander Avenue Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10553448&index=8&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=1&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 10 Alexander Avenue Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10553462&index=9&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=1&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-2 15 Alexander Avenue Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=16936479&index=10&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=1&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 18 Alexander Avenue Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17945694&index=11&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=1&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 25 Alexander Avenue Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10553484&index=12&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=1&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 2 Allenby Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10553499&index=13&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=1&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 2A Anzac Avenue Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17048993&index=14&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=1&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-3 16 Anzac Avenue Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=15698558&index=15&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=1&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-6 18-20 Anzac Avenue Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10553576&index=18&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=1&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-2 23 Anzac Avenue Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=18025404&index=24&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=1&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 23A Anzac Avenue Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=48166256&index=26&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=1&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 4 Aperture Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17174681&index=27&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=1&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 5 Aperture Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=16956972&index=28&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=1&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 8 Aperture Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17115923&index=29&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=1&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 12 Aperture Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17112579&index=30&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=1&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 13 Aperture Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17503514&index=31&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=1&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 14 Aperture Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17118963&index=32&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=1&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 15 Aperture Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17848238&index=33&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=1&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 16 Aperture Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17185235&index=34&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=1&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 17 Aperture Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17697013&index=35&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=1&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 18 Aperture Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17235792&index=36&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=1&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 19 Aperture Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17848239&index=37&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=1&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 21 Aperture Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17848240&index=38&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=1&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 22 Aperture Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=16959976&index=39&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=1&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 23 Aperture Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17848241&index=40&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=1&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 Ararat Avenue Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10553603&index=41&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=1&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-3 5 Ararat Avenue Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17838665&index=42&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=1&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-5 15 Ararat Avenue Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=14845898&index=45&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=1&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 Arthur Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10376089&index=0&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=2&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-3 11 Arthur Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=51621152&index=3&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=2&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-4 21 Arthur Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10553655&index=4&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=2&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-3 22 Arthur Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=14387239&index=8&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=2&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 25 Arthur Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10553674&index=11&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=2&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-8 25A Arthur Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=16064990&index=12&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=2&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-3 27 Arthur Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10553693&index=20&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=2&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-3 28 Arthur Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=43904728&index=23&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=2&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-2 29 Arthur Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17397793&index=27&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=2&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-6 41 Arthur Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=43977819&index=29&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=2&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 9 Athol Avenue Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10553760&index=36&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=2&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-3 34 Bakers Road Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10553925&index=37&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=2&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-12 40-42 Bakers Road Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10553940&index=38&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=2&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-4 44 Bakers Road Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=16283183&index=49&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=2&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-5 46 Bakers Road Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17167484&index=3&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=3&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-6 48 Bakers Road Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17200725&index=8&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=3&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 16 Biggs Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=16019502&index=13&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=3&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-2 6 Blanche Court Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=16602942&index=14&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=3&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-2 14 Blanche Court Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17873565&index=15&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=3&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-2 37 Boundary Road Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=15952303&index=16&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=3&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 45 Boundary Road Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=44611046&index=18&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=3&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-2 57 Boundary Road Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10554261&index=19&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=3&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-2 61 Boundary Road Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10554267&index=21&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=3&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-7 99 Boundary Road Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10554297&index=24&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=3&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 48 Boyne Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=16602966&index=31&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=3&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-2 18 Bridges Avenue Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10554470&index=32&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=3&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 8 Camera Walk Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17716212&index=34&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=3&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 12 Camera Walk Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17638904&index=35&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=3&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 13 Camera Walk Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17244414&index=36&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=3&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 14 Camera Walk Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17713220&index=37&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=3&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 15 Camera Walk Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17257387&index=38&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=3&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 16 Camera Walk Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17716218&index=39&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=3&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 17 Camera Walk Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17217052&index=40&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=3&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 18 Camera Walk Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17716216&index=41&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=3&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 19 Camera Walk Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17204621&index=42&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=3&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 20 Camera Walk Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17716215&index=43&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=3&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 21 Camera Walk Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17276082&index=44&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=3&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 22 Camera Walk Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17654760&index=45&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=3&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 23 Camera Walk Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17223072&index=46&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=3&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 25 Camera Walk Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17198835&index=47&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=3&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 27 Camera Walk Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17235655&index=48&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=3&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 28 Camera Walk Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17235676&index=49&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=3&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 29 Camera Walk Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17205278&index=0&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=4&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 30 Camera Walk Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17283785&index=1&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=4&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 32 Camera Walk Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17235890&index=2&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=4&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 34 Camera Walk Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17503524&index=3&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=4&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 35 Camera Walk Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17271701&index=4&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=4&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 37 Camera Walk Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17272495&index=5&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=4&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 41 Camera Walk Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17380793&index=6&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=4&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 44 Camera Walk Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17713773&index=7&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=4&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 45 Camera Walk Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17503525&index=8&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=4&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 46 Camera Walk Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17718913&index=9&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=4&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 48 Camera Walk Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17701719&index=10&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=4&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 49 Camera Walk Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17423112&index=11&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=4&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 50 Camera Walk Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17847899&index=12&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=4&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 52 Camera Walk Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17701093&index=13&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=4&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 54 Camera Walk Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17847897&index=14&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=4&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 55 Camera Walk Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=37376962&index=15&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=4&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 57 Camera Walk Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=37376961&index=16&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=4&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 59 Camera Walk Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=37376960&index=17&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=4&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 60 Camera Walk Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17718912&index=18&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=4&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 63 Camera Walk Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=37376957&index=19&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=4&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 67 Camera Walk Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=37376954&index=20&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=4&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 68 Camera Walk Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17844266&index=21&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=4&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 69 Camera Walk Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=37376953&index=22&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=4&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 70 Camera Walk Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17844265&index=23&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=4&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 71 Camera Walk Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=37376952&index=24&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=4&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 73 Camera Walk Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=37376951&index=25&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=4&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 75 Camera Walk Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=37376950&index=26&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=4&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 76 Camera Walk Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17844262&index=27&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=4&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 79 Camera Walk Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=37376948&index=28&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=4&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 80 Camera Walk Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17844260&index=29&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=4&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 81 Camera Walk Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=37376947&index=30&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=4&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 83 Camera Walk Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=37376946&index=31&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=4&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 86 Camera Walk Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17844308&index=32&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=4&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 92 Camera Walk Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17844305&index=33&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=4&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 98 Camera Walk Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17844302&index=34&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=4&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 100 Camera Walk Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17844301&index=35&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=4&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 102 Camera Walk Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17844300&index=36&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=4&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 104 Camera Walk Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17844299&index=37&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=4&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 106 Camera Walk Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17844298&index=38&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=4&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 108 Camera Walk Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17844297&index=39&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=4&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 110 Camera Walk Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17844296&index=40&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=4&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 112 Camera Walk Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17844295&index=41&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=4&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 114 Camera Walk Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17844294&index=42&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=4&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 116 Camera Walk Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17844293&index=43&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=4&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 120 Camera Walk Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17844291&index=44&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=4&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 1C Carr Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10554545&index=45&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=4&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 2B Carr Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=51624300&index=46&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=4&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 2C Carr Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=51624356&index=47&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=4&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 3 Catherine Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10554612&index=48&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=4&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-4 35 Catherine Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=14466913&index=49&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=4&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 30-34 Charles Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10554684&index=0&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=5&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 35 Charles Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=15595199&index=1&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=5&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 9 Claremont Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10554733&index=2&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=5&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 3 Cyan Walk Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=37548018&index=3&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=5&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 6 Cyan Walk Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=37561241&index=4&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=5&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 8 Cyan Walk Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=37561530&index=5&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=5&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 10 Cyan Walk Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=37561553&index=6&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=5&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 12 Cyan Walk Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=37561554&index=7&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=5&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 13 Cyan Walk Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=37548810&index=8&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=5&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 14 Cyan Walk Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=37561511&index=9&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=5&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 15 Cyan Walk Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=37548811&index=10&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=5&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 17 Cyan Walk Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=37548812&index=11&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=5&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 19 Cyan Walk Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=37548813&index=12&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=5&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 10 Dairy Drive Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10558010&index=13&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=5&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 Danthonia Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=43979401&index=14&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=5&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 4 Danthonia Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=37565200&index=15&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=5&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 5 Danthonia Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=16943157&index=16&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=5&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 10 Danthonia Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17499346&index=17&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=5&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 12 Danthonia Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=37375184&index=18&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=5&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 16 Danthonia Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=37375182&index=19&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=5&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 18 Danthonia Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=37375181&index=20&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=5&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 19 Danthonia Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17198838&index=21&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=5&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 20 Danthonia Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=37375180&index=22&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=5&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 22 Danthonia Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=37375179&index=23&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=5&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 24 Danthonia Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=37375178&index=24&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=5&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 26 Danthonia Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=37375177&index=25&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=5&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 28 Danthonia Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=37375176&index=26&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=5&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 30 Danthonia Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=37512824&index=27&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=5&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-12 9 Dawson Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=15346938&index=28&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=5&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 72 Dawson Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=16265464&index=31&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=5&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-6 7-9 De Chene Parade Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17380749&index=32&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=5&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 54 De Chene Parade Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10555007&index=36&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=5&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 2A Delta Avenue Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10555037&index=37&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=5&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 8A Delta Avenue Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=14841522&index=38&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=5&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 62 Elizabeth Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=12323733&index=39&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=5&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 106 Elizabeth Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=14564589&index=40&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=5&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-2 110 Elizabeth Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10555157&index=42&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=5&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 139 Elizabeth Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=16155854&index=43&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=5&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 140 Elizabeth Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10534269&index=44&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=5&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 145 Elizabeth Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=16019251&index=45&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=5&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 148 Elizabeth Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10555208&index=46&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=5&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 152 Elizabeth Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17228320&index=47&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=5&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 158A Elizabeth Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=37564333&index=48&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=5&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 158B Elizabeth Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=37564334&index=49&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=5&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 160 Elizabeth Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10555220&index=0&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=6&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-2 166 Elizabeth Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=51507717&index=1&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=6&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 171 Elizabeth Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17503520&index=3&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=6&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-8 172-174 Elizabeth Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=14387251&index=4&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=6&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 173 Elizabeth Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=15375323&index=12&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=6&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-39 173-199 Elizabeth Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=43373460&index=13&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=6&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 175 Elizabeth Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17848823&index=15&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=6&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 177 Elizabeth Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17848821&index=16&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=6&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 179 Elizabeth Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=16255502&index=17&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=6&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 201A Elizabeth Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10555268&index=18&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=6&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 201B Elizabeth Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10555270&index=19&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=6&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-3 202 Elizabeth Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=45213665&index=20&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=6&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 203 Elizabeth Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10555277&index=22&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=6&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 218 Elizabeth Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10555304&index=23&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=6&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 226 Elizabeth Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17031199&index=24&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=6&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 245 Elizabeth Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17397795&index=25&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=6&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 2 Elliott Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10555361&index=26&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=6&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 3 Focus Drive Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17094061&index=27&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=6&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 7 Focus Drive Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17103863&index=28&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=6&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 9 Focus Drive Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17094358&index=29&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=6&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 12 Focus Drive Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17848463&index=30&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=6&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 13 Focus Drive Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17102329&index=31&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=6&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 14 Focus Drive Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17848822&index=32&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=6&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 15 Focus Drive Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17096266&index=33&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=6&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 16 Focus Drive Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17647162&index=34&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=6&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 17 Focus Drive Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17150362&index=35&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=6&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 18 Focus Drive Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17671340&index=36&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=6&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 19 Focus Drive Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17219518&index=37&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=6&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 20 Focus Drive Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=16183039&index=38&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=6&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 23 Focus Drive Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=16962788&index=39&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=6&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 28 Focus Drive Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=16282172&index=40&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=6&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 2 Gaffney Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=44569640&index=41&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=6&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-3 39 Gaffney Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=43133385&index=42&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=6&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 1 Galeka Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10555518&index=43&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=6&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 20 Galeka Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=14785334&index=44&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=6&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-3 30 Galeka Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17551071&index=46&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=6&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 32 Galeka Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10555578&index=49&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=6&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-3 42 Galeka Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=37471744&index=0&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=7&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 1B Gladys Court Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10555625&index=3&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=7&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 14 Goleen Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10555703&index=4&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=7&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-2 29 Goleen Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=14387256&index=5&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=7&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 46 Goleen Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=15400891&index=7&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=7&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 48 Goleen Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=15698511&index=8&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=7&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-2 29 Golf Road Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10555804&index=9&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=7&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 1 Gould Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=16225563&index=11&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=7&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 1A Gould Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=16602933&index=12&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=7&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 1C Gould Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=16602934&index=13&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=7&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 2A Gould Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=15698481&index=14&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=7&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 26 Guilfoyle Avenue Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10555900&index=15&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=7&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-5 1 Headley Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=16083697&index=16&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=7&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 3A Headley Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=15698517&index=21&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=7&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 3B Headley Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=15698518&index=22&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=7&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-5 5 Headley Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10555923&index=23&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=7&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-13 25-27 Hocking Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=14387299&index=28&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=7&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 1 Hopetoun Crescent Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10555961&index=30&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=7&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 25 Hosken Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=37564332&index=31&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=7&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 15 Hossack Avenue Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10556012&index=32&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=7&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-4 20 Hossack Avenue Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=15464452&index=33&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=7&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-4 29 Hossack Avenue Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10556026&index=34&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=7&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-6 1-3 Ida Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=16631467&index=36&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=7&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-3 10 Ida Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=45862478&index=42&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=7&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 20 Ida Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=50392758&index=45&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=7&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 23 Ida Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17880323&index=46&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=7&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 25 Ida Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17438738&index=47&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=7&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 3 Image Walk Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=37535687&index=48&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=7&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 5 Image Walk Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=37535686&index=49&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=7&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 9 Image Walk Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=37527092&index=0&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=8&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 11 Image Walk Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=37375175&index=1&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=8&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 13 Image Walk Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=37375174&index=2&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=8&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 17 Image Walk Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=37375172&index=3&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=8&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 19 Image Walk Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=37375171&index=4&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=8&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 21 Image Walk Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=37375170&index=5&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=8&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 23 Image Walk Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=37375169&index=6&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=8&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 Jackson Parade Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=34984615&index=7&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=8&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 2 Jackson Parade Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17233877&index=8&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=8&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 8 Jackson Parade Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10556137&index=9&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=8&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 29 Jenkin Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=16961388&index=10&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=8&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 46 Keady Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10556272&index=11&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=8&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 3 Kingsford Avenue Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10556329&index=12&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=8&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-6 1 Lake Grove Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17864494&index=13&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=8&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 1B Lake Grove Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=44569638&index=19&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=8&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-4 3 Lake Grove Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10556408&index=20&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=8&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-3 5 Lake Grove Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=43937915&index=24&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=8&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-6 14-16 Lens Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=16778449&index=27&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=8&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 26 Lincoln Avenue Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10556564&index=28&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=8&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-3 34 Lincoln Avenue Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=34193167&index=29&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=8&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 37 Lincoln Avenue Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10556587&index=32&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=8&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-3 53 Lincoln Avenue Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=16519153&index=33&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=8&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-3 59 Lincoln Avenue Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=44941091&index=36&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=8&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 26 Livingstone Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=35281041&index=39&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=8&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 27 Livingstone Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=45138468&index=40&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=8&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 27A Livingstone Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=45138470&index=42&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=8&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 27B Livingstone Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=45138445&index=43&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=8&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-2 32 Livingstone Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=16797329&index=44&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=8&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-3 36 Livingstone Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10556667&index=45&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=8&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-2 36B Livingstone Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10556677&index=48&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=8&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 44 Livingstone Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10556699&index=0&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=9&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 44A Livingstone Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10556701&index=1&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=9&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 45 Livingstone Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10556704&index=2&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=9&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-2 50 Livingstone Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10556712&index=3&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=9&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 53 Livingstone Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10556724&index=5&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=9&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 54B Livingstone Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=14387262&index=6&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=9&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-4 58 Livingstone Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=43925273&index=7&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=9&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 1A Lorensen Avenue Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10556758&index=12&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=9&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-8 2 Lorensen Avenue Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10556760&index=13&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=9&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-6 8 Lorensen Avenue Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=43275376&index=21&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=9&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-6 10 Lorensen Avenue Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=37530446&index=27&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=9&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 12 Lorensen Avenue Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10556792&index=33&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=9&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 12A Lorensen Avenue Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10556794&index=35&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=9&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-2 13 Lorensen Avenue Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=15698514&index=36&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=9&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-4 14 Lorensen Avenue Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=45619356&index=38&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=9&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-3 16 Lorensen Avenue Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=15534213&index=42&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=9&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-3 20 Lorensen Avenue Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=16079937&index=45&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=9&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-2 21 Lorensen Avenue Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10556814&index=48&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=9&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-2 22 Lorensen Avenue Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10556816&index=0&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=10&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-3 24 Lorensen Avenue Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=16319851&index=2&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=10&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-3 26 Lorensen Avenue Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=46019914&index=5&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=10&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-5 28 Lorensen Avenue Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=37556036&index=7&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=10&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-3 34 Lorensen Avenue Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10556846&index=12&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=10&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-4 52 Lorensen Avenue Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=48548460&index=16&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=10&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 30 Louvain Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=45141083&index=17&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=10&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 Manly Court Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10556955&index=18&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=10&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-2 1 Manly Court Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=50691298&index=19&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=10&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 1A Manly Court Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10556945&index=20&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=10&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-3 2 Manly Court Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=14305657&index=21&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=10&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-3 4 Manly Court Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=15597506&index=24&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=10&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-2 6 Manly Court Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17669410&index=26&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=10&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-3 10 Manly Court Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10556963&index=28&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=10&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 Marama Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=36336798&index=31&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=10&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 2 Marama Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10557007&index=33&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=10&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 2A Marama Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10557009&index=34&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=10&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 2C Marama Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=47448878&index=35&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=10&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 2D Marama Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=47448877&index=36&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=10&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-2 4 Marama Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=15698536&index=37&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=10&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-2 7 Marama Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=43903575&index=39&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=10&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 13 Marama Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10557042&index=42&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=10&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-6 15 Marama Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10557044&index=43&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=10&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 Mashoobra Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=36542635&index=49&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=10&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 1 Mashoobra Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10559401&index=0&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=11&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 1A Mashoobra Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10557074&index=1&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=11&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-6 24 Mashoobra Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=14747427&index=2&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=11&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 33 Mashoobra Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10557143&index=8&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=11&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 38A Mashoobra Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=34830725&index=9&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=11&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 65 Mashoobra Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10554275&index=10&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=11&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-2 6 Mathieson Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=15384902&index=11&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=11&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-4 8 Mathieson Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17235956&index=12&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=11&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 41 Mathieson Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10557276&index=16&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=11&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 55 Mathieson Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=45870337&index=17&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=11&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-4 62 Mathieson Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17719488&index=18&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=11&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-3 64 Mathieson Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10557307&index=22&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=11&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-2 78 Mathieson Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=15589797&index=25&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=11&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 8 McDonnell Road Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10557380&index=26&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=11&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 10 McDonnell Road Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10557384&index=27&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=11&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 11 McDonnell Road Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10557390&index=28&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=11&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 12 McDonnell Road Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10557392&index=29&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=11&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 15 McDonnell Road Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10557399&index=30&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=11&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 16 McDonnell Road Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10557401&index=31&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=11&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 17 McDonnell Road Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10557403&index=32&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=11&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 18 McDonnell Road Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10557405&index=33&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=11&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 19 McDonnell Road Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10557407&index=34&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=11&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-2 3 McMahons Road Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17875264&index=35&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=11&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 10 McMahons Road Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10557428&index=36&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=11&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 12-14 McMahons Road Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=43908719&index=37&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=11&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 34 McMahons Road Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10557474&index=40&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=11&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-4 1 Merlyn Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10557606&index=41&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=11&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 17 Merlyn Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17405633&index=45&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=11&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 19 Merlyn Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=16232648&index=46&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=11&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 21 Merlyn Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=14748316&index=47&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=11&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-7 33 Merlyn Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=37546134&index=48&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=11&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 3A Morris Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=37343986&index=5&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=12&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 10 Muriel Court Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10557694&index=6&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=12&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 10A Muriel Court Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17584456&index=7&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=12&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 Newlands Road Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=43903342&index=8&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=12&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 2 Newlands Road Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10557750&index=9&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=12&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-12 3-5 Newlands Road Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=14745664&index=10&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=12&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-15 7 Newlands Road Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10557787&index=21&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=12&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 43 Newlands Road Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10557874&index=35&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=12&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-4 58-62 Newlands Road Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=15698519&index=36&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=12&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-3 59 Newlands Road Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=45264480&index=37&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=12&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 62 Newlands Road Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10557910&index=39&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=12&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-6 71-73 Newlands Road Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=44709480&index=40&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=12&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-4 85 Newlands Road Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17870339&index=46&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=12&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-21 120 Newlands Road Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=37458787&index=0&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=13&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-6 159 Newlands Road Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=15698523&index=7&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=13&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-2 208 Newlands Road Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10558052&index=10&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=13&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 1A Nola Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10558078&index=12&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=13&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 1B Nola Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=45251717&index=13&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=13&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 8 Norfolk Court Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=14732064&index=14&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=13&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-2 13-19 Norfolk Court Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10558120&index=15&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=13&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-4 15 Norfolk Court Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10558122&index=16&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=13&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-8 19 Norfolk Court Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10558139&index=17&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=13&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-2 23 Norfolk Court Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10558151&index=18&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=13&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-2 25 Norfolk Court Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10558156&index=19&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=13&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-3 26-28 Norfolk Court Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10558164&index=21&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=13&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-49 36 Norfolk Court Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=15594318&index=22&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=13&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-5 16 Norris Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=37529634&index=38&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=13&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 11 Orvieto Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=43905773&index=43&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=13&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-202 11-17 Orvieto Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=14544671&index=44&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=13&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-4 19 Orvieto Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10558352&index=48&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=13&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-3 21 Orvieto Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10558363&index=2&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=14&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-3 24 Orvieto Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=14387281&index=5&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=14&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-2 26 Orvieto Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=44396217&index=8&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=14&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 1C Pallett Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10555937&index=10&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=14&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 27A Pallett Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10558533&index=11&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=14&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 2 Peterson Avenue Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10558550&index=12&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=14&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 3 Pixel Circuit Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=16902684&index=13&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=14&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 4 Pixel Circuit Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=16885387&index=14&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=14&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 6 Pixel Circuit Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=16883306&index=15&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=14&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 8 Pixel Circuit Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=16826357&index=16&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=14&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 9 Pixel Circuit Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=16929227&index=17&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=14&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 12 Pixel Circuit Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=16826356&index=18&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=14&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 13 Pixel Circuit Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=16956975&index=19&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=14&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 15 Pixel Circuit Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=16896181&index=20&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=14&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 16 Pixel Circuit Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=16826081&index=21&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=14&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 21 Pixel Circuit Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=16776956&index=22&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=14&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 24 Pixel Circuit Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=16820352&index=23&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=14&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 26 Pixel Circuit Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17503513&index=24&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=14&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 30 Pixel Circuit Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=16806992&index=25&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=14&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 32 Pixel Circuit Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=16820353&index=26&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=14&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 8 Portrait Way Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=16925575&index=27&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=14&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 10 Portrait Way Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=16928900&index=28&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=14&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 12 Portrait Way Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=16959609&index=29&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=14&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 14 Portrait Way Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=16922013&index=30&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=14&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 18 Portrait Way Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=16765068&index=31&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=14&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 19 Portrait Way Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=16072481&index=32&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=14&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 20 Portrait Way Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=16750928&index=33&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=14&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 22 Portrait Way Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=16778485&index=34&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=14&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 24 Portrait Way Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=16797940&index=35&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=14&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 1 Princess Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10558707&index=36&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=14&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-4 13 Princess Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=50032965&index=37&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=14&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 16 Red Box Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=16158245&index=40&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=14&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-3 5 Renown Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17823341&index=41&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=14&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-4 11 Renown Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=14979164&index=44&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=14&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-2 14 Renown Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10558761&index=47&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=14&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-3 26 Renown Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=14555323&index=49&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=14&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-3 32 Renown Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10558786&index=2&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=15&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-3 13 Rodney Avenue Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=44908875&index=5&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=15&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-2 16 Rodney Avenue Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10558825&index=8&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=15&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 23 Rodney Avenue Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10558844&index=10&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=15&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-2 29 Rodney Avenue Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=16319485&index=11&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=15&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-3 37 Rodney Avenue Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=47668067&index=12&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=15&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 48 Rodney Avenue Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10558889&index=15&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=15&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-2 51 Rodney Avenue Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10558894&index=16&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=15&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-2 1 Rollo Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=46196182&index=18&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=15&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 2A Rollo Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10558904&index=19&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=15&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 5A Rollo Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10558914&index=20&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=15&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-2 6 Rollo Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=47501018&index=21&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=15&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-2 7 Rollo Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=14465499&index=22&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=15&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 13A Rollo Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10558931&index=24&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=15&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 19 Rollo Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10558937&index=25&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=15&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 19A Rollo Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=15602387&index=26&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=15&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-3 35 Rollo Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=14387317&index=27&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=15&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 44 Ronald Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17459180&index=30&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=15&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 58 Ronald Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17432407&index=31&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=15&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 22 Roosevelt Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10559074&index=32&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=15&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 15 Rouse Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17844268&index=33&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=15&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 16 Rouse Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17848242&index=34&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=15&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 20 Rouse Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17692044&index=35&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=15&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 22 Rouse Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17684348&index=36&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=15&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-4 7 Ryland Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10559098&index=37&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=15&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 1 Sharp Grove Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10559117&index=41&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=15&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 1A Sharp Grove Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10559121&index=42&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=15&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 2A Sharp Grove Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=16049607&index=43&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=15&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 2A Shaw Court Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17839082&index=44&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=15&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 3 Shaw Court Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10559154&index=45&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=15&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 Shore Grove Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10559209&index=46&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=15&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 10 Shore Grove Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10559224&index=47&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=15&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 2 Shorts Road Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10559289&index=48&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=15&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 2A Shorts Road Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=14744352&index=49&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=15&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 5 Shorts Road Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10559302&index=0&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=16&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-3 7 Shorts Road Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=16927341&index=1&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=16&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 14 Shorts Road Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10559316&index=4&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=16&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 15 Shorts Road Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=37405861&index=5&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=16&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 17 Shorts Road Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17888017&index=6&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=16&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 17A Shorts Road Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17888018&index=7&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=16&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-4 18-20 Shorts Road Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=14387290&index=8&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=16&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 19A Shorts Road Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=48551410&index=11&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=16&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-2 22 Shorts Road Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=48640888&index=12&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=16&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-5 97 Shorts Road Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17535894&index=14&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=16&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 4A Smith Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10559496&index=19&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=16&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 17 Smith Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10559522&index=20&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=16&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-10 10 Snapshot Drive Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17397783&index=21&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=16&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 24 Snapshot Drive Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=16934380&index=31&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=16&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 30 Snapshot Drive Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=16893615&index=32&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=16&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 38 Snapshot Drive Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17049465&index=33&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=16&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 44 Snapshot Drive Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17029682&index=34&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=16&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 46 Snapshot Drive Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17044302&index=35&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=16&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 48 Snapshot Drive Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17020494&index=36&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=16&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 49 Snapshot Drive Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=37561210&index=37&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=16&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 51 Snapshot Drive Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=37561775&index=38&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=16&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 52 Snapshot Drive Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=16705757&index=39&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=16&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 53 Snapshot Drive Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=18083009&index=40&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=16&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 55 Snapshot Drive Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=37561512&index=41&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=16&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 57 Snapshot Drive Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=37561209&index=42&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=16&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 63 Snapshot Drive Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17844309&index=43&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=16&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 41 Spectrum Way Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17586733&index=44&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=16&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 55 Spectrum Way Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17844271&index=45&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=16&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 61 Spectrum Way Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17844274&index=46&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=16&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 69 Spectrum Way Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17844278&index=47&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=16&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 71 Spectrum Way Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17844279&index=48&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=16&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 73 Spectrum Way Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17844280&index=49&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=16&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 77 Spectrum Way Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17844282&index=0&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=17&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 79 Spectrum Way Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17844283&index=1&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=17&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 81 Spectrum Way Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17844284&index=2&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=17&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 91 Spectrum Way Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17844289&index=3&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=17&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 93 Spectrum Way Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17844290&index=4&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=17&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 99 Spectrum Way Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=37376943&index=5&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=17&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 100 Spectrum Way Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=37375168&index=6&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=17&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 103 Spectrum Way Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=18074400&index=7&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=17&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 105 Spectrum Way Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=37551649&index=8&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=17&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 111 Spectrum Way Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=18067437&index=9&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=17&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 1A Speedie Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=35500156&index=10&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=17&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 13A Spry Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10559577&index=11&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=17&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-2 15 Spry Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17397801&index=12&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=17&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-2 27 Spry Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=16239028&index=13&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=17&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
+    },
+    {
+      "Addres": "1-1 28 Spry Street Coburg North, VIC, 3058",
+      "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10559609&index=15&q=Coburg+North+VIC+3058&qt=address&_qt=address&offset=17&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+      "Suburb": "Coburg North VIC 3058"
     }
   ]
 }

@@ -1,0 +1,21 @@
+{
+  "Addresses and hrefs": [
+    [
+      {
+        "Addres": "1-1 Murrumbeena Road Carnegie, VIC, 3163",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=36665598&index=0&q=Murrumbeena+Road+Carnegie+VIC+3163&qt=address&_qt=address&offset=1&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Murrumbeena Road Carnegie VIC 3163"
+      },
+      {
+        "Addres": "1-3 1 Murrumbeena Road Carnegie, VIC, 3163",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=12120719&index=1&q=Murrumbeena+Road+Carnegie+VIC+3163&qt=address&_qt=address&offset=1&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Murrumbeena Road Carnegie VIC 3163"
+      },
+      {
+        "Addres": "1-4 49 Murrumbeena Road Carnegie, VIC, 3163",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=12120907&index=3&q=Murrumbeena+Road+Carnegie+VIC+3163&qt=address&_qt=address&offset=1&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Murrumbeena Road Carnegie VIC 3163"
+      }
+    ]
+  ]
+}

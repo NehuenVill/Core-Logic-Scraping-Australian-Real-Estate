@@ -1,0 +1,916 @@
+{
+  "Addresses and hrefs": [
+    [
+      {
+        "Addres": "1-73 313 Beaconsfield Parade St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=14681635&index=0&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=1&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-110 315 Beaconsfield Parade St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13284747&index=20&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=1&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-111 315-317 Beaconsfield Parade St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=47673601&index=30&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=1&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-302 315 Beaconsfield Parade St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13248041&index=31&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=1&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-304 315-317 Beaconsfield Parade St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=50377398&index=43&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=1&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-407 315 Beaconsfield Parade St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13248066&index=44&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=1&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-21 318 Beaconsfield Parade St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=15762470&index=3&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=2&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-9 319-320 Beaconsfield Parade St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=36353959&index=23&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=2&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-12 321 Beaconsfield Parade St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13284788&index=31&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=2&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-20 321 Beaconsfield Parade St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=51408101&index=44&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=2&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-18 323 Beaconsfield Parade St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=43981235&index=2&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=3&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-92 325 Beaconsfield Parade St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=43980140&index=21&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=3&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-12 326 Beaconsfield Parade St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13284835&index=46&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=3&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-1 328 Beaconsfield Parade St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13284843&index=7&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=4&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-152 333 Beaconsfield Parade St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=43981026&index=8&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=4&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-48 340 Beaconsfield Parade St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=15521724&index=2&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=5&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-62 343-346 Beaconsfield Parade St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13284980&index=46&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=5&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-13 347 Beaconsfield Parade St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13248419&index=3&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=7&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-502 348 Beaconsfield Parade St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=43980301&index=15&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=7&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-18 349 Beaconsfield Parade St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13248468&index=44&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=7&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-48 350-353 Beaconsfield Parade St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=47552012&index=12&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=8&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-3 354 Beaconsfield Parade St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13285059&index=3&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=9&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-16 355 Beaconsfield Parade St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17498643&index=6&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=9&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-4 357 Beaconsfield Parade St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=14681651&index=21&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=9&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-19 358 Beaconsfield Parade St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13285069&index=25&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=9&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-12 360 Beaconsfield Parade St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13285094&index=44&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=9&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-314 363 Beaconsfield Parade St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=43981095&index=6&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=10&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-17 364-366 Beaconsfield Parade St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13285173&index=44&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=10&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-4 368 Beaconsfield Parade St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13248642&index=8&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=11&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-73 197 Canterbury Road St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13249905&index=10&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=11&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-17 206 Canterbury Road St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=15762460&index=30&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=11&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-15 207 Canterbury Road St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13285266&index=43&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=11&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-14 211 Canterbury Road St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=16064960&index=6&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=12&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-4 215 Canterbury Road St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=36395949&index=19&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=12&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-1 217 Canterbury Road St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13285303&index=24&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=12&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-1 220-221 Canterbury Road St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=36928554&index=25&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=12&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-1 223 Canterbury Road St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13250060&index=26&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=12&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-21 225 Canterbury Road St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13285328&index=27&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=12&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-6 226 Canterbury Road St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=16625072&index=47&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=12&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-14 233-235 Canterbury Road St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13285375&index=3&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=13&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-37 233-235 Canterbury Road St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17563858&index=17&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=13&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-5 236 Canterbury Road St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=43980877&index=41&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=13&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-1 262 Canterbury Road St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13250272&index=47&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=13&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-1 266 Canterbury Road St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13285409&index=48&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=13&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-1 268 Canterbury Road St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13285413&index=49&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=13&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-1 269 Canterbury Road St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13250290&index=0&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=14&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-1 275 Canterbury Road St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13285428&index=1&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=14&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-1 278 Canterbury Road St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13285434&index=2&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=14&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-1 282 Canterbury Road St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13250314&index=3&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=14&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-1 283 Canterbury Road St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13250318&index=4&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=14&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-1 287A Canterbury Road St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13250326&index=5&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=14&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-1 290 Canterbury Road St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13250332&index=6&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=14&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-1 291 Canterbury Road St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13285467&index=7&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=14&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-1 295 Canterbury Road St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13285477&index=8&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=14&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-1 296 Canterbury Road St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13285479&index=9&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=14&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-1 297 Canterbury Road St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13285481&index=10&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=14&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-1 298 Canterbury Road St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13285483&index=11&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=14&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-1 300 Canterbury Road St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13250355&index=12&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=14&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-1 300A Canterbury Road St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=9177637&index=13&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=14&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-1 311 Canterbury Road St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13285509&index=14&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=14&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-1 312 Canterbury Road St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=11776348&index=15&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=14&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-1 320 Canterbury Road St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13250121&index=16&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=14&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-1 322 Canterbury Road St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13250391&index=17&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=14&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-1 324 Canterbury Road St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13285534&index=18&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=14&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-1 326A Canterbury Road St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13285539&index=19&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=14&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-1 328-331 Canterbury Road St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=15762466&index=20&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=14&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-1 329A Canterbury Road St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13285545&index=21&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=14&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-1 330 Canterbury Road St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13250402&index=22&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=14&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-1 330A Canterbury Road St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13250404&index=23&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=14&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-1 331 Canterbury Road St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=9177649&index=24&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=14&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-1 334 Canterbury Road St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13285555&index=25&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=14&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-1 335 Canterbury Road St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13285557&index=26&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=14&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-1 336A Canterbury Road St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13285559&index=27&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=14&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-1 343 Canterbury Road St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13285572&index=28&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=14&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-1 346 Canterbury Road St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13285578&index=29&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=14&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-1 349 Canterbury Road St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13285584&index=30&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=14&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-3 350 Canterbury Road St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13285586&index=31&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=14&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-1 1 Cowderoy Street St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13285609&index=34&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=14&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-2 1A Cowderoy Street St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=16645407&index=35&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=14&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-18 3 Cowderoy Street St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=35660432&index=37&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=14&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-3 5 Cowderoy Street St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=50157111&index=3&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=15&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-1 7 Cowderoy Street St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13285621&index=4&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=15&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-1 14 Cowderoy Street St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13285635&index=5&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=15&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-1 LOT 14A Cowderoy Street St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13285638&index=6&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=15&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-1 14B Cowderoy Street St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=43195420&index=7&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=15&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-2 LOT 14B Cowderoy Street St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=37173612&index=8&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=15&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-4 LOT 14D Cowderoy Street St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13285646&index=10&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=15&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-5 LOT 14E Cowderoy Street St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13285648&index=11&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=15&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-6 LOT 14F Cowderoy Street St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13285650&index=12&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=15&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-7 15 Cowderoy Street St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13285659&index=13&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=15&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-8 17 Cowderoy Street St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13285675&index=20&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=15&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-1 10 Deakin Street St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13285700&index=28&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=15&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-12 14 Deakin Street St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=16304149&index=29&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=15&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-1 16 Deakin Street St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=15470150&index=39&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=15&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-8 4 Loch Street St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=35333616&index=40&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=15&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-5 6 Loch Street St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13285747&index=49&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=15&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-8 11 Loch Street St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=35444605&index=4&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=16&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-6 13 Loch Street St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13285791&index=12&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=16&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-1 17 Loch Street St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13262817&index=17&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=16&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-1 17A Loch Street St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13285809&index=18&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=16&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-1 18A Loch Street St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13285813&index=19&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=16&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-1 18B Loch Street St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13285815&index=20&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=16&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-1 18C Loch Street St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13285817&index=21&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=16&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-6 20-22 Loch Street St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=15762471&index=22&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=16&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-12 24 Loch Street St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13262833&index=27&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=16&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-14 26 Loch Street St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=43981028&index=36&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=16&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-1 38 Loch Street St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13285914&index=0&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=17&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-1 2 Longmore Street St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13285920&index=1&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=17&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-1 5 Longmore Street St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=16994368&index=2&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=17&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-1 32 Longmore Street St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13285982&index=3&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=17&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-2 34 Longmore Street St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=47631288&index=4&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=17&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-8 41 Longmore Street St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13286013&index=5&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=17&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-6 5 Mary Street St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13286049&index=12&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=17&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-1 16 Mary Street St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13286071&index=18&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=17&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-1 30 Mary Street St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13286096&index=19&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=17&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-5 40 Mary Street St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13286119&index=20&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=17&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-1 13 Park Lane St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=15370974&index=23&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=17&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-1 15 Park Lane St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13286313&index=24&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=17&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-16 1 Park Street St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=15521985&index=25&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=17&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-14 4 Park Street St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=43981236&index=40&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=17&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-10 7-9 Park Street St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13286208&index=3&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=18&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-1 8A Park Street St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=14444578&index=13&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=18&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-1 10 Park Street St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=14444579&index=14&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=18&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-28 11-17 Park Street St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13286246&index=15&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=18&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-1 12A Park Street St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=14444581&index=39&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=18&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-1 12B Park Street St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13286303&index=40&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=18&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-1 14A Park Street St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13286307&index=41&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=18&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-8 21 Park Street St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=15522010&index=42&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=18&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-12 23 Park Street St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13286369&index=49&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=18&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-20 24 Park Street St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=15520693&index=9&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=19&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-2 25 Park Street St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13265716&index=27&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=19&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-3 29 Park Street St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=16114157&index=28&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=19&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-7 31 Park Street St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13286403&index=30&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=19&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-1 33A Park Street St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13286422&index=35&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=19&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-1 33B Park Street St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13286424&index=36&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=19&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-8 34 Park Street St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=43979645&index=37&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=19&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-21 41 Park Street St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13286443&index=46&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=19&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-20 43 Park Street St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=43981029&index=17&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=20&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-1 53-55 Park Street St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=35509416&index=36&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=20&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-17 65-67 Park Street St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=43979805&index=38&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=20&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-8 66 Park Street St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13286528&index=3&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=21&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-17 70 Park Street St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13265792&index=10&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=21&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-10 75 Park Street St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13286575&index=26&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=21&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-8 77 Park Street St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13286598&index=36&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=21&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-4 79 Park Street St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=14721198&index=42&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=21&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-12 81 Park Street St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13286614&index=43&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=21&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-12 82 Park Street St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=11688453&index=4&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=22&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-36 82 Park Street St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=49639923&index=5&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=22&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-12 83 Park Street St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13286641&index=20&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=22&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-12 86 Park Street St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13286545&index=32&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=22&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-19 86 Park Street St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13286683&index=44&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=22&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-1 91 Park Street St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13286701&index=1&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=23&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-1 97 Park Street St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13286713&index=2&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=23&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-12 98 Park Street St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13286722&index=3&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=23&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-21 102 Park Street St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13286750&index=14&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=23&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-36 107 Park Street St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13286808&index=32&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=23&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-11 108 Park Street St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13286837&index=14&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=24&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-1 109 Park Street St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13286850&index=24&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=24&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-11 117 Park Street St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13286875&index=25&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=24&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-14 117 Park Street St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=50166990&index=35&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=24&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-14 136 Park Street St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=15522063&index=37&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=24&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-1 1 West Beach Road St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13286909&index=48&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=24&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-12 6 West Beach Road St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13271414&index=49&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=24&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-1 10 West Beach Road St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13271420&index=10&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=25&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-1 10A West Beach Road St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17638435&index=11&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=25&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-1 12 West Beach Road St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13271422&index=12&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=25&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-16 12 York Street St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13286955&index=13&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=25&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-1 16 York Street St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=16701050&index=30&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=25&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-7 20 York Street St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13287004&index=31&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=25&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-6 21 York Street St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13287008&index=37&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=25&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-1 22 York Street St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13287015&index=42&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=25&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-9 25 York Street St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=15469713&index=43&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=25&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-15 27-29 York Street St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=15469459&index=1&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=26&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-9 28 York Street St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13287055&index=12&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=26&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-37 31 York Street St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13287069&index=21&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=26&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-1 37 York Street St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13287117&index=35&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=26&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-12 38 York Street St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=43980661&index=36&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=26&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-1 55 York Street St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=36668942&index=49&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=26&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-6 62 York Street St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=43980202&index=1&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=27&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-3 64 York Street St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=35228723&index=8&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=27&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-8 65 York Street St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=16054755&index=12&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=27&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      },
+      {
+        "Addres": "1-1 69 York Street St Kilda West, VIC, 3182",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13287200&index=17&q=St+Kilda+West+VIC+3182&qt=address&_qt=address&offset=27&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "St Kilda West VIC 3182"
+      }
+    ]
+  ]
+}

@@ -1,0 +1,1786 @@
+{
+  "Addresses and hrefs": [
+    [
+      {
+        "Addres": "1-1 3 Adele Street Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13675605&index=0&q=Vermont+VIC+3133&qt=address&_qt=address&offset=1&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 7 Alcon Court Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13675647&index=1&q=Vermont+VIC+3133&qt=address&_qt=address&offset=1&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 9 Allison Court Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13675659&index=2&q=Vermont+VIC+3133&qt=address&_qt=address&offset=1&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 2A Andrew Street Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13675675&index=3&q=Vermont+VIC+3133&qt=address&_qt=address&offset=1&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 24 Andrew Street Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13675698&index=4&q=Vermont+VIC+3133&qt=address&_qt=address&offset=1&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 1 Arlington Walk Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13675718&index=5&q=Vermont+VIC+3133&qt=address&_qt=address&offset=1&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 3 Arlington Walk Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13675720&index=6&q=Vermont+VIC+3133&qt=address&_qt=address&offset=1&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 4 Arlington Walk Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13675721&index=7&q=Vermont+VIC+3133&qt=address&_qt=address&offset=1&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 5 Arlington Walk Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13675722&index=8&q=Vermont+VIC+3133&qt=address&_qt=address&offset=1&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 15 Arlington Walk Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13675732&index=9&q=Vermont+VIC+3133&qt=address&_qt=address&offset=1&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 16 Arlington Walk Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13675733&index=10&q=Vermont+VIC+3133&qt=address&_qt=address&offset=1&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 18 Arlington Walk Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13675735&index=11&q=Vermont+VIC+3133&qt=address&_qt=address&offset=1&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 20 Arlington Walk Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13675737&index=12&q=Vermont+VIC+3133&qt=address&_qt=address&offset=1&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 25 Arlington Walk Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13675742&index=13&q=Vermont+VIC+3133&qt=address&_qt=address&offset=1&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 28 Arlington Walk Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13675745&index=14&q=Vermont+VIC+3133&qt=address&_qt=address&offset=1&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 33 Arlington Walk Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13675750&index=15&q=Vermont+VIC+3133&qt=address&_qt=address&offset=1&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 34 Arlington Walk Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13675751&index=16&q=Vermont+VIC+3133&qt=address&_qt=address&offset=1&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 36 Arlington Walk Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13675753&index=17&q=Vermont+VIC+3133&qt=address&_qt=address&offset=1&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 37 Arlington Walk Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13675754&index=18&q=Vermont+VIC+3133&qt=address&_qt=address&offset=1&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 38 Arlington Walk Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13675755&index=19&q=Vermont+VIC+3133&qt=address&_qt=address&offset=1&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 40 Arlington Walk Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13675756&index=20&q=Vermont+VIC+3133&qt=address&_qt=address&offset=1&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 46 Arlington Walk Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13675759&index=21&q=Vermont+VIC+3133&qt=address&_qt=address&offset=1&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 48 Arlington Walk Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13675760&index=22&q=Vermont+VIC+3133&qt=address&_qt=address&offset=1&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 Aubrey Street Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=36196204&index=23&q=Vermont+VIC+3133&qt=address&_qt=address&offset=1&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-2 1 Aubrey Street Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13675768&index=26&q=Vermont+VIC+3133&qt=address&_qt=address&offset=1&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 2A Aubrey Street Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13675771&index=28&q=Vermont+VIC+3133&qt=address&_qt=address&offset=1&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-3 3 Aubrey Street Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13675772&index=29&q=Vermont+VIC+3133&qt=address&_qt=address&offset=1&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-3 5-7 Aubrey Street Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13675776&index=32&q=Vermont+VIC+3133&qt=address&_qt=address&offset=1&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-5 11 Aubrey Street Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=16162649&index=35&q=Vermont+VIC+3133&qt=address&_qt=address&offset=1&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 13 Aubrey Street Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=16225825&index=40&q=Vermont+VIC+3133&qt=address&_qt=address&offset=1&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 19 Aubrey Street Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13675792&index=41&q=Vermont+VIC+3133&qt=address&_qt=address&offset=1&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 2A Azalea Street Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13676133&index=42&q=Vermont+VIC+3133&qt=address&_qt=address&offset=1&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 7 Azalea Street Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13675817&index=43&q=Vermont+VIC+3133&qt=address&_qt=address&offset=1&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 15 Barbara Street Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13675871&index=44&q=Vermont+VIC+3133&qt=address&_qt=address&offset=1&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-2 33 Barbara Street Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13675889&index=45&q=Vermont+VIC+3133&qt=address&_qt=address&offset=1&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 9 Batman Court Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13675947&index=47&q=Vermont+VIC+3133&qt=address&_qt=address&offset=1&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 1 Beaumont Street Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13675960&index=48&q=Vermont+VIC+3133&qt=address&_qt=address&offset=1&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-4 2 Beaumont Street Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13675963&index=49&q=Vermont+VIC+3133&qt=address&_qt=address&offset=1&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-2 2A Beaumont Street Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17271007&index=3&q=Vermont+VIC+3133&qt=address&_qt=address&offset=2&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-2 2B Beaumont Street Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=16413656&index=4&q=Vermont+VIC+3133&qt=address&_qt=address&offset=2&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 4 Beaumont Street Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13675969&index=5&q=Vermont+VIC+3133&qt=address&_qt=address&offset=2&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-3 30 Beddoe Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=15346981&index=6&q=Vermont+VIC+3133&qt=address&_qt=address&offset=2&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 Beleura Avenue Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=36385236&index=8&q=Vermont+VIC+3133&qt=address&_qt=address&offset=2&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-5 12 Beleura Avenue Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=36389849&index=9&q=Vermont+VIC+3133&qt=address&_qt=address&offset=2&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 2A Bellara Street Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=16918620&index=14&q=Vermont+VIC+3133&qt=address&_qt=address&offset=2&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 17 Bellbird Crescent Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13676075&index=15&q=Vermont+VIC+3133&qt=address&_qt=address&offset=2&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 26 Bellbird Crescent Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13676084&index=16&q=Vermont+VIC+3133&qt=address&_qt=address&offset=2&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-2 50 Betula Avenue Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13676113&index=17&q=Vermont+VIC+3133&qt=address&_qt=address&offset=2&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 51 Betula Avenue Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13676116&index=19&q=Vermont+VIC+3133&qt=address&_qt=address&offset=2&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-2 56 Betula Avenue Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13676121&index=20&q=Vermont+VIC+3133&qt=address&_qt=address&offset=2&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 68A Betula Avenue Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13676138&index=22&q=Vermont+VIC+3133&qt=address&_qt=address&offset=2&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 68B Betula Avenue Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13676139&index=23&q=Vermont+VIC+3133&qt=address&_qt=address&offset=2&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-2 13 Blanche Drive Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=48673045&index=24&q=Vermont+VIC+3133&qt=address&_qt=address&offset=2&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 23 Blanche Drive Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13676185&index=26&q=Vermont+VIC+3133&qt=address&_qt=address&offset=2&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-2 8 Blyth Street Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13676222&index=27&q=Vermont+VIC+3133&qt=address&_qt=address&offset=2&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 Boronia Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=34386577&index=29&q=Vermont+VIC+3133&qt=address&_qt=address&offset=2&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-11 1-3 Boronia Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=43893010&index=30&q=Vermont+VIC+3133&qt=address&_qt=address&offset=2&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 8 Boronia Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=36893371&index=41&q=Vermont+VIC+3133&qt=address&_qt=address&offset=2&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 21 Boronia Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13676267&index=42&q=Vermont+VIC+3133&qt=address&_qt=address&offset=2&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-2 25 Boronia Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13676270&index=43&q=Vermont+VIC+3133&qt=address&_qt=address&offset=2&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-2 27 Boronia Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13676277&index=47&q=Vermont+VIC+3133&qt=address&_qt=address&offset=2&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-2 28A Boronia Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=14564437&index=49&q=Vermont+VIC+3133&qt=address&_qt=address&offset=2&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-2 41 Boronia Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=43892943&index=1&q=Vermont+VIC+3133&qt=address&_qt=address&offset=3&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-3 49 Boronia Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13676305&index=3&q=Vermont+VIC+3133&qt=address&_qt=address&offset=3&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-2 51 Boronia Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13676308&index=6&q=Vermont+VIC+3133&qt=address&_qt=address&offset=3&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-2 56 Boronia Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=37113084&index=8&q=Vermont+VIC+3133&qt=address&_qt=address&offset=3&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-3 61 Boronia Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=48943266&index=10&q=Vermont+VIC+3133&qt=address&_qt=address&offset=3&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-3 67 Boronia Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13676326&index=13&q=Vermont+VIC+3133&qt=address&_qt=address&offset=3&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-4 75 Boronia Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=9817961&index=16&q=Vermont+VIC+3133&qt=address&_qt=address&offset=3&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 89 Boronia Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13676354&index=20&q=Vermont+VIC+3133&qt=address&_qt=address&offset=3&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-13 134-140 Boronia Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=15566809&index=21&q=Vermont+VIC+3133&qt=address&_qt=address&offset=3&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-2 12 Brampton Court Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13676399&index=32&q=Vermont+VIC+3133&qt=address&_qt=address&offset=3&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 Canterbury Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=37012531&index=34&q=Vermont+VIC+3133&qt=address&_qt=address&offset=3&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-2 420 Canterbury Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13676449&index=46&q=Vermont+VIC+3133&qt=address&_qt=address&offset=3&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-2 433 Canterbury Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13676461&index=47&q=Vermont+VIC+3133&qt=address&_qt=address&offset=3&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-4 439-441 Canterbury Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13676467&index=49&q=Vermont+VIC+3133&qt=address&_qt=address&offset=3&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-2 445 Canterbury Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=37464916&index=3&q=Vermont+VIC+3133&qt=address&_qt=address&offset=4&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 447 Canterbury Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13676474&index=4&q=Vermont+VIC+3133&qt=address&_qt=address&offset=4&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 451 Canterbury Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13676476&index=5&q=Vermont+VIC+3133&qt=address&_qt=address&offset=4&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-2 453 Canterbury Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17624871&index=6&q=Vermont+VIC+3133&qt=address&_qt=address&offset=4&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-2 455 Canterbury Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13676480&index=8&q=Vermont+VIC+3133&qt=address&_qt=address&offset=4&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-92 457-467 Canterbury Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13676483&index=10&q=Vermont+VIC+3133&qt=address&_qt=address&offset=4&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-2 493-503 Canterbury Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=51606923&index=25&q=Vermont+VIC+3133&qt=address&_qt=address&offset=5&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-2 509 Canterbury Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13676585&index=26&q=Vermont+VIC+3133&qt=address&_qt=address&offset=5&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-4 511-513 Canterbury Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13676588&index=28&q=Vermont+VIC+3133&qt=address&_qt=address&offset=5&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-5 515 Canterbury Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13676594&index=32&q=Vermont+VIC+3133&qt=address&_qt=address&offset=5&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-4 526 Canterbury Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13676607&index=36&q=Vermont+VIC+3133&qt=address&_qt=address&offset=5&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-10 535-537 Canterbury Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13676615&index=40&q=Vermont+VIC+3133&qt=address&_qt=address&offset=5&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-2 553 Canterbury Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13676639&index=0&q=Vermont+VIC+3133&qt=address&_qt=address&offset=6&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-6 557 Canterbury Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=14507837&index=2&q=Vermont+VIC+3133&qt=address&_qt=address&offset=6&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 559 Canterbury Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=43893542&index=7&q=Vermont+VIC+3133&qt=address&_qt=address&offset=6&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 559A Canterbury Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13676646&index=8&q=Vermont+VIC+3133&qt=address&_qt=address&offset=6&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 559B Canterbury Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=16606958&index=9&q=Vermont+VIC+3133&qt=address&_qt=address&offset=6&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1- 2A580-584 Canterbury Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=16969621&index=10&q=Vermont+VIC+3133&qt=address&_qt=address&offset=6&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1- 3A580-584 Canterbury Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17019507&index=11&q=Vermont+VIC+3133&qt=address&_qt=address&offset=6&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1- 4A580-584 Canterbury Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17399064&index=12&q=Vermont+VIC+3133&qt=address&_qt=address&offset=6&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1- 5A580-584 Canterbury Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=16859863&index=13&q=Vermont+VIC+3133&qt=address&_qt=address&offset=6&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 599 Canterbury Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13676680&index=14&q=Vermont+VIC+3133&qt=address&_qt=address&offset=6&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-2 607 Canterbury Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13676688&index=15&q=Vermont+VIC+3133&qt=address&_qt=address&offset=6&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-2 629 Canterbury Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13676703&index=16&q=Vermont+VIC+3133&qt=address&_qt=address&offset=6&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-5 637 Canterbury Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=16178450&index=18&q=Vermont+VIC+3133&qt=address&_qt=address&offset=6&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-5 639 Canterbury Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17985323&index=23&q=Vermont+VIC+3133&qt=address&_qt=address&offset=6&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-4 645 Canterbury Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=16938205&index=29&q=Vermont+VIC+3133&qt=address&_qt=address&offset=6&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-5 647 Canterbury Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=45211146&index=33&q=Vermont+VIC+3133&qt=address&_qt=address&offset=6&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-5 649 Canterbury Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=16180687&index=39&q=Vermont+VIC+3133&qt=address&_qt=address&offset=6&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-4 651 Canterbury Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13676716&index=44&q=Vermont+VIC+3133&qt=address&_qt=address&offset=6&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-4 653 Canterbury Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=14466848&index=48&q=Vermont+VIC+3133&qt=address&_qt=address&offset=6&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-3 654 Canterbury Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=14704426&index=3&q=Vermont+VIC+3133&qt=address&_qt=address&offset=7&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-3 660 Canterbury Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13676728&index=6&q=Vermont+VIC+3133&qt=address&_qt=address&offset=7&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-5 670 Canterbury Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13676733&index=8&q=Vermont+VIC+3133&qt=address&_qt=address&offset=7&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-13 696 Canterbury Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13676752&index=12&q=Vermont+VIC+3133&qt=address&_qt=address&offset=7&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-2 738 Canterbury Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13676782&index=25&q=Vermont+VIC+3133&qt=address&_qt=address&offset=7&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 744A Canterbury Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13676789&index=27&q=Vermont+VIC+3133&qt=address&_qt=address&offset=7&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 748A Canterbury Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13676793&index=28&q=Vermont+VIC+3133&qt=address&_qt=address&offset=7&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-2 776 Canterbury Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=14306171&index=29&q=Vermont+VIC+3133&qt=address&_qt=address&offset=7&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-4 782 Canterbury Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13676808&index=31&q=Vermont+VIC+3133&qt=address&_qt=address&offset=7&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-3 784 Canterbury Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13676813&index=35&q=Vermont+VIC+3133&qt=address&_qt=address&offset=7&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 802 Canterbury Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13676824&index=37&q=Vermont+VIC+3133&qt=address&_qt=address&offset=7&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 8 Cardiff Street Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13676837&index=38&q=Vermont+VIC+3133&qt=address&_qt=address&offset=7&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-2 14 Carinya Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17253495&index=39&q=Vermont+VIC+3133&qt=address&_qt=address&offset=7&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-3 49 Carinya Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13676888&index=41&q=Vermont+VIC+3133&qt=address&_qt=address&offset=7&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 22 Caroben Avenue Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13676947&index=42&q=Vermont+VIC+3133&qt=address&_qt=address&offset=7&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 Centre Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=35469064&index=43&q=Vermont+VIC+3133&qt=address&_qt=address&offset=7&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-2 3 Centre Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13676968&index=46&q=Vermont+VIC+3133&qt=address&_qt=address&offset=7&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-2 7 Centre Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13676973&index=48&q=Vermont+VIC+3133&qt=address&_qt=address&offset=7&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-2 12 Centre Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13676978&index=0&q=Vermont+VIC+3133&qt=address&_qt=address&offset=8&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-2 16 Centre Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13676981&index=1&q=Vermont+VIC+3133&qt=address&_qt=address&offset=8&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 19 Centre Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13676985&index=3&q=Vermont+VIC+3133&qt=address&_qt=address&offset=8&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-3 20-22 Centre Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=16557541&index=4&q=Vermont+VIC+3133&qt=address&_qt=address&offset=8&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-2 27 Centre Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17178744&index=7&q=Vermont+VIC+3133&qt=address&_qt=address&offset=8&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-2 30A Centre Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13676993&index=9&q=Vermont+VIC+3133&qt=address&_qt=address&offset=8&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-4 39 Centre Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13677004&index=11&q=Vermont+VIC+3133&qt=address&_qt=address&offset=8&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-2 45 Centre Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17204574&index=14&q=Vermont+VIC+3133&qt=address&_qt=address&offset=8&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 79 Centre Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13677036&index=15&q=Vermont+VIC+3133&qt=address&_qt=address&offset=8&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 80 Centre Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13677037&index=16&q=Vermont+VIC+3133&qt=address&_qt=address&offset=8&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 85 Centre Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13677042&index=17&q=Vermont+VIC+3133&qt=address&_qt=address&offset=8&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 89 Centre Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13676964&index=18&q=Vermont+VIC+3133&qt=address&_qt=address&offset=8&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 91 Centre Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13677047&index=19&q=Vermont+VIC+3133&qt=address&_qt=address&offset=8&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-2 5 Clematis Street Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=43914772&index=20&q=Vermont+VIC+3133&qt=address&_qt=address&offset=8&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 11 Condev Court Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13677074&index=23&q=Vermont+VIC+3133&qt=address&_qt=address&offset=8&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 1A Cosgrove Street Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=16199516&index=24&q=Vermont+VIC+3133&qt=address&_qt=address&offset=8&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-2 8 Cosgrove Street Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13677106&index=25&q=Vermont+VIC+3133&qt=address&_qt=address&offset=8&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 10 Culbara Drive Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13677180&index=27&q=Vermont+VIC+3133&qt=address&_qt=address&offset=8&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 18 Culbara Drive Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13677188&index=28&q=Vermont+VIC+3133&qt=address&_qt=address&offset=8&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 21 Culbara Drive Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13677192&index=29&q=Vermont+VIC+3133&qt=address&_qt=address&offset=8&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 40 Denis Street Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13677242&index=30&q=Vermont+VIC+3133&qt=address&_qt=address&offset=8&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 2 Ellad Close Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13677265&index=31&q=Vermont+VIC+3133&qt=address&_qt=address&offset=8&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 2A Evans Court Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13677311&index=32&q=Vermont+VIC+3133&qt=address&_qt=address&offset=8&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 10 Evans Court Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=46164273&index=33&q=Vermont+VIC+3133&qt=address&_qt=address&offset=8&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 Frances Avenue Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13677393&index=34&q=Vermont+VIC+3133&qt=address&_qt=address&offset=8&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-2 11 Frances Avenue Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13677376&index=35&q=Vermont+VIC+3133&qt=address&_qt=address&offset=8&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-2 26 Frances Avenue Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13677392&index=37&q=Vermont+VIC+3133&qt=address&_qt=address&offset=8&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 2A Frank Street Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13677397&index=39&q=Vermont+VIC+3133&qt=address&_qt=address&offset=8&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-2 4 Frank Street Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=16541441&index=40&q=Vermont+VIC+3133&qt=address&_qt=address&offset=8&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-2 13 Frank Street Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=37317398&index=42&q=Vermont+VIC+3133&qt=address&_qt=address&offset=8&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 64A Glenburnie Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13677462&index=43&q=Vermont+VIC+3133&qt=address&_qt=address&offset=8&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 64C Glenburnie Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13677464&index=44&q=Vermont+VIC+3133&qt=address&_qt=address&offset=8&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 80 Glenburnie Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13677514&index=45&q=Vermont+VIC+3133&qt=address&_qt=address&offset=8&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 95 Glenburnie Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=15768209&index=46&q=Vermont+VIC+3133&qt=address&_qt=address&offset=8&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-2 8 Graeme Street Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13677551&index=47&q=Vermont+VIC+3133&qt=address&_qt=address&offset=8&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 10 Graeme Street Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13677553&index=49&q=Vermont+VIC+3133&qt=address&_qt=address&offset=8&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 12 Graeme Street Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=15768246&index=0&q=Vermont+VIC+3133&qt=address&_qt=address&offset=9&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 2 Greenwood Court Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13677222&index=1&q=Vermont+VIC+3133&qt=address&_qt=address&offset=9&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 3 Greenwood Court Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13677224&index=2&q=Vermont+VIC+3133&qt=address&_qt=address&offset=9&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 Grey Street Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=34382260&index=3&q=Vermont+VIC+3133&qt=address&_qt=address&offset=9&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-2 3 Grey Street Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=14896976&index=4&q=Vermont+VIC+3133&qt=address&_qt=address&offset=9&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-2 5 Grey Street Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13677565&index=5&q=Vermont+VIC+3133&qt=address&_qt=address&offset=9&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 8 Grey Street Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=43916209&index=7&q=Vermont+VIC+3133&qt=address&_qt=address&offset=9&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-2 13 Grey Street Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13677576&index=9&q=Vermont+VIC+3133&qt=address&_qt=address&offset=9&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-2 15 Grey Street Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13677579&index=11&q=Vermont+VIC+3133&qt=address&_qt=address&offset=9&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-2 17 Grey Street Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13677582&index=13&q=Vermont+VIC+3133&qt=address&_qt=address&offset=9&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 22 Grey Street Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=16064965&index=15&q=Vermont+VIC+3133&qt=address&_qt=address&offset=9&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 1 Grigg Avenue Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13677600&index=16&q=Vermont+VIC+3133&qt=address&_qt=address&offset=9&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-2 6 Grigg Avenue Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13677606&index=17&q=Vermont+VIC+3133&qt=address&_qt=address&offset=9&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-6 8 Grigg Avenue Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=47635914&index=19&q=Vermont+VIC+3133&qt=address&_qt=address&offset=9&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 Grove Street Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=35059991&index=24&q=Vermont+VIC+3133&qt=address&_qt=address&offset=9&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-3 6 Grove Street Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=14451211&index=26&q=Vermont+VIC+3133&qt=address&_qt=address&offset=9&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-2 36 Halls Parade Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=14451213&index=29&q=Vermont+VIC+3133&qt=address&_qt=address&offset=9&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 1 Hayward Court Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13677660&index=31&q=Vermont+VIC+3133&qt=address&_qt=address&offset=9&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 Heatherdale Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=35811119&index=32&q=Vermont+VIC+3133&qt=address&_qt=address&offset=9&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-7 139-141 Heatherdale Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13677679&index=33&q=Vermont+VIC+3133&qt=address&_qt=address&offset=9&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 145 Heatherdale Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=14586901&index=39&q=Vermont+VIC+3133&qt=address&_qt=address&offset=9&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-3 147 Heatherdale Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=16707482&index=40&q=Vermont+VIC+3133&qt=address&_qt=address&offset=9&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 152 Heatherdale Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13677693&index=43&q=Vermont+VIC+3133&qt=address&_qt=address&offset=9&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-6 165-167 Heatherdale Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=14656230&index=44&q=Vermont+VIC+3133&qt=address&_qt=address&offset=9&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-20 165-171 Heatherdale Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13677720&index=0&q=Vermont+VIC+3133&qt=address&_qt=address&offset=10&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-5 189 Heatherdale Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13677743&index=13&q=Vermont+VIC+3133&qt=address&_qt=address&offset=10&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 12 Hindle Drive Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17228339&index=16&q=Vermont+VIC+3133&qt=address&_qt=address&offset=10&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 100A Jolimont Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=15980346&index=17&q=Vermont+VIC+3133&qt=address&_qt=address&offset=10&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-2 105 Jolimont Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17846211&index=18&q=Vermont+VIC+3133&qt=address&_qt=address&offset=10&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-4 135 Jolimont Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=16240271&index=20&q=Vermont+VIC+3133&qt=address&_qt=address&offset=10&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-3 5 Judy Court Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=47841739&index=24&q=Vermont+VIC+3133&qt=address&_qt=address&offset=10&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-2 8 Judy Court Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=37534834&index=26&q=Vermont+VIC+3133&qt=address&_qt=address&offset=10&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 2 Karwitha Street Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=43378342&index=28&q=Vermont+VIC+3133&qt=address&_qt=address&offset=10&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-3 4 Karwitha Street Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17871045&index=29&q=Vermont+VIC+3133&qt=address&_qt=address&offset=10&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-4 6 Karwitha Street Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=43910474&index=31&q=Vermont+VIC+3133&qt=address&_qt=address&offset=10&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 11 Karwitha Street Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13677922&index=35&q=Vermont+VIC+3133&qt=address&_qt=address&offset=10&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-2 16 Karwitha Street Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17399068&index=36&q=Vermont+VIC+3133&qt=address&_qt=address&offset=10&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-2 19 Karwitha Street Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=15090107&index=37&q=Vermont+VIC+3133&qt=address&_qt=address&offset=10&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-2 21 Karwitha Street Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13677932&index=39&q=Vermont+VIC+3133&qt=address&_qt=address&offset=10&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-2 23 Karwitha Street Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13677935&index=41&q=Vermont+VIC+3133&qt=address&_qt=address&offset=10&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 25 Karwitha Street Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13677938&index=43&q=Vermont+VIC+3133&qt=address&_qt=address&offset=10&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 2A Kay Court Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13677942&index=44&q=Vermont+VIC+3133&qt=address&_qt=address&offset=10&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 2 Kingsclere Street Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13677956&index=45&q=Vermont+VIC+3133&qt=address&_qt=address&offset=10&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 2A Kingsclere Street Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13677957&index=46&q=Vermont+VIC+3133&qt=address&_qt=address&offset=10&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-3 3 Kingsclere Street Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=16068457&index=47&q=Vermont+VIC+3133&qt=address&_qt=address&offset=10&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-2 2 Liddle Way Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13678035&index=0&q=Vermont+VIC+3133&qt=address&_qt=address&offset=11&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 20 Liddle Way Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13678050&index=1&q=Vermont+VIC+3133&qt=address&_qt=address&offset=11&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-4 29-30 Liddle Way Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13678059&index=2&q=Vermont+VIC+3133&qt=address&_qt=address&offset=11&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-2 32 Liddle Way Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13678065&index=4&q=Vermont+VIC+3133&qt=address&_qt=address&offset=11&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-2 7 Lucerne Street Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13678120&index=6&q=Vermont+VIC+3133&qt=address&_qt=address&offset=11&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 17 Lucerne Street Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13678130&index=8&q=Vermont+VIC+3133&qt=address&_qt=address&offset=11&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 8 Lunar Crescent Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13678138&index=9&q=Vermont+VIC+3133&qt=address&_qt=address&offset=11&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-2 1 Lusk Drive Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17953476&index=10&q=Vermont+VIC+3133&qt=address&_qt=address&offset=11&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-2 2 Lusk Drive Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13678147&index=12&q=Vermont+VIC+3133&qt=address&_qt=address&offset=11&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-2 3 Lusk Drive Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17540360&index=14&q=Vermont+VIC+3133&qt=address&_qt=address&offset=11&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 13 Lusk Drive Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13678162&index=16&q=Vermont+VIC+3133&qt=address&_qt=address&offset=11&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 27 Lusk Drive Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13678176&index=17&q=Vermont+VIC+3133&qt=address&_qt=address&offset=11&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 39 Lusk Drive Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13678189&index=18&q=Vermont+VIC+3133&qt=address&_qt=address&offset=11&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 52 Lusk Drive Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=16885298&index=19&q=Vermont+VIC+3133&qt=address&_qt=address&offset=11&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-2 3 Madonna Court Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=37497624&index=20&q=Vermont+VIC+3133&qt=address&_qt=address&offset=11&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 Malvern Street Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=34385374&index=21&q=Vermont+VIC+3133&qt=address&_qt=address&offset=11&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-2 2A Malvern Street Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13678217&index=23&q=Vermont+VIC+3133&qt=address&_qt=address&offset=11&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-2 6 Malvern Street Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13678221&index=25&q=Vermont+VIC+3133&qt=address&_qt=address&offset=11&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 8A Malvern Street Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13678225&index=27&q=Vermont+VIC+3133&qt=address&_qt=address&offset=11&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-2 12 Malvern Street Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13678231&index=28&q=Vermont+VIC+3133&qt=address&_qt=address&offset=11&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 13 Malvern Street Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13678233&index=30&q=Vermont+VIC+3133&qt=address&_qt=address&offset=11&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 Marina Street Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=34381847&index=31&q=Vermont+VIC+3133&qt=address&_qt=address&offset=11&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-2 2 Marina Street Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13678275&index=32&q=Vermont+VIC+3133&qt=address&_qt=address&offset=11&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-2 6 Marina Street Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13678280&index=34&q=Vermont+VIC+3133&qt=address&_qt=address&offset=11&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-2 8 Marina Street Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13678283&index=36&q=Vermont+VIC+3133&qt=address&_qt=address&offset=11&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 19 Marina Street Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13678295&index=38&q=Vermont+VIC+3133&qt=address&_qt=address&offset=11&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 22 Marina Street Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13678297&index=39&q=Vermont+VIC+3133&qt=address&_qt=address&offset=11&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 2 Masaryk Court Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13678318&index=40&q=Vermont+VIC+3133&qt=address&_qt=address&offset=11&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 McClares Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=36705166&index=41&q=Vermont+VIC+3133&qt=address&_qt=address&offset=11&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-2 1 McClares Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=15768225&index=3&q=Vermont+VIC+3133&qt=address&_qt=address&offset=12&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 3 McClares Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13678352&index=5&q=Vermont+VIC+3133&qt=address&_qt=address&offset=12&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-13 1-4 McClares Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=50102705&index=6&q=Vermont+VIC+3133&qt=address&_qt=address&offset=12&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-12 8-12 McClares Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13678357&index=7&q=Vermont+VIC+3133&qt=address&_qt=address&offset=12&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-11 11-13 McClares Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13678370&index=19&q=Vermont+VIC+3133&qt=address&_qt=address&offset=12&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-7 14-16 McClares Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13678382&index=30&q=Vermont+VIC+3133&qt=address&_qt=address&offset=12&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-3 18 McClares Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13678391&index=36&q=Vermont+VIC+3133&qt=address&_qt=address&offset=12&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-3 20 McClares Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13678395&index=39&q=Vermont+VIC+3133&qt=address&_qt=address&offset=12&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 21 McClares Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13678398&index=42&q=Vermont+VIC+3133&qt=address&_qt=address&offset=12&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-2 22 McClares Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=14451236&index=43&q=Vermont+VIC+3133&qt=address&_qt=address&offset=12&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-2 23 McClares Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13678403&index=45&q=Vermont+VIC+3133&qt=address&_qt=address&offset=12&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-3 24 McClares Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13678405&index=47&q=Vermont+VIC+3133&qt=address&_qt=address&offset=12&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-3 33 McClares Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17277030&index=0&q=Vermont+VIC+3133&qt=address&_qt=address&offset=13&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-4 35 McClares Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13678414&index=1&q=Vermont+VIC+3133&qt=address&_qt=address&offset=13&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-11 38-40 McClares Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=15507720&index=5&q=Vermont+VIC+3133&qt=address&_qt=address&offset=13&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-8 42-44 McClares Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13678422&index=16&q=Vermont+VIC+3133&qt=address&_qt=address&offset=13&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 64A McClares Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13678448&index=24&q=Vermont+VIC+3133&qt=address&_qt=address&offset=13&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 17 McDonough Lane Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13678472&index=25&q=Vermont+VIC+3133&qt=address&_qt=address&offset=13&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 Mitcham Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=36853463&index=26&q=Vermont+VIC+3133&qt=address&_qt=address&offset=13&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-12 513 Mitcham Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13678483&index=30&q=Vermont+VIC+3133&qt=address&_qt=address&offset=13&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-6 515 Mitcham Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13678492&index=49&q=Vermont+VIC+3133&qt=address&_qt=address&offset=13&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-6 517 Mitcham Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13678498&index=5&q=Vermont+VIC+3133&qt=address&_qt=address&offset=14&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 549 Mitcham Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13678520&index=11&q=Vermont+VIC+3133&qt=address&_qt=address&offset=14&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-16 634-644 Mitcham Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13678526&index=12&q=Vermont+VIC+3133&qt=address&_qt=address&offset=14&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-8 662-664 Mitcham Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13678539&index=16&q=Vermont+VIC+3133&qt=address&_qt=address&offset=14&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-4 668-670 Mitcham Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=14654084&index=23&q=Vermont+VIC+3133&qt=address&_qt=address&offset=14&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-4 674-676 Mitcham Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13678554&index=27&q=Vermont+VIC+3133&qt=address&_qt=address&offset=14&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-13 13-17 Moore Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17849273&index=31&q=Vermont+VIC+3133&qt=address&_qt=address&offset=14&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-25 19-27 Moore Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13678574&index=44&q=Vermont+VIC+3133&qt=address&_qt=address&offset=14&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-2 23 Morack Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17837773&index=19&q=Vermont+VIC+3133&qt=address&_qt=address&offset=15&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 24 Morack Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13678635&index=20&q=Vermont+VIC+3133&qt=address&_qt=address&offset=15&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 10 Narambi Drive Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=16297359&index=21&q=Vermont+VIC+3133&qt=address&_qt=address&offset=15&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-2 9 Nurlendi Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13678726&index=22&q=Vermont+VIC+3133&qt=address&_qt=address&offset=15&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-2 11 Nurlendi Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13678730&index=24&q=Vermont+VIC+3133&qt=address&_qt=address&offset=15&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-2 13 Nurlendi Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13678733&index=26&q=Vermont+VIC+3133&qt=address&_qt=address&offset=15&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-3 27 Nurlendi Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13678748&index=28&q=Vermont+VIC+3133&qt=address&_qt=address&offset=15&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 Orion Street Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=35283534&index=31&q=Vermont+VIC+3133&qt=address&_qt=address&offset=15&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 1 Orion Street Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13678833&index=39&q=Vermont+VIC+3133&qt=address&_qt=address&offset=15&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 1A Orion Street Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13678834&index=40&q=Vermont+VIC+3133&qt=address&_qt=address&offset=15&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-12 5-11 Orion Street Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13678839&index=41&q=Vermont+VIC+3133&qt=address&_qt=address&offset=15&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 8 Orion Street Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13678853&index=3&q=Vermont+VIC+3133&qt=address&_qt=address&offset=16&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 13 Orion Street Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13678857&index=4&q=Vermont+VIC+3133&qt=address&_qt=address&offset=16&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-10 15-17 Orion Street Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13678859&index=5&q=Vermont+VIC+3133&qt=address&_qt=address&offset=16&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 19A Orion Street Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17834582&index=15&q=Vermont+VIC+3133&qt=address&_qt=address&offset=16&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 27 Orion Street Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13678879&index=16&q=Vermont+VIC+3133&qt=address&_qt=address&offset=16&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-2 2 Paranda Court Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13678909&index=17&q=Vermont+VIC+3133&qt=address&_qt=address&offset=16&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 Park Close Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=36137238&index=19&q=Vermont+VIC+3133&qt=address&_qt=address&offset=16&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-2 9 Park Close Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13678925&index=22&q=Vermont+VIC+3133&qt=address&_qt=address&offset=16&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-3 12 Park Close Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=16244003&index=23&q=Vermont+VIC+3133&qt=address&_qt=address&offset=16&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-2 13 Park Close Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13678929&index=26&q=Vermont+VIC+3133&qt=address&_qt=address&offset=16&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-2 15 Park Close Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13678933&index=28&q=Vermont+VIC+3133&qt=address&_qt=address&offset=16&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-2 17 Park Close Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=16334910&index=30&q=Vermont+VIC+3133&qt=address&_qt=address&offset=16&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-6 23 Park Close Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13678944&index=32&q=Vermont+VIC+3133&qt=address&_qt=address&offset=16&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 Penllyne Avenue Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=36375689&index=38&q=Vermont+VIC+3133&qt=address&_qt=address&offset=16&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-2 2 Penllyne Avenue Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13678973&index=40&q=Vermont+VIC+3133&qt=address&_qt=address&offset=16&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-2 3 Penllyne Avenue Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13678976&index=42&q=Vermont+VIC+3133&qt=address&_qt=address&offset=16&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-3 8 Penllyne Avenue Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=43940577&index=45&q=Vermont+VIC+3133&qt=address&_qt=address&offset=16&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-4 10 Penllyne Avenue Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=36692173&index=49&q=Vermont+VIC+3133&qt=address&_qt=address&offset=16&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-2 12 Penllyne Avenue Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13678988&index=2&q=Vermont+VIC+3133&qt=address&_qt=address&offset=17&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-4 13 Penllyne Avenue Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13678991&index=4&q=Vermont+VIC+3133&qt=address&_qt=address&offset=17&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-4 26 Penllyne Avenue Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13679005&index=8&q=Vermont+VIC+3133&qt=address&_qt=address&offset=17&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-2 28 Penllyne Avenue Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13679011&index=12&q=Vermont+VIC+3133&qt=address&_qt=address&offset=17&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-2 30 Penllyne Avenue Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13679016&index=14&q=Vermont+VIC+3133&qt=address&_qt=address&offset=17&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 Philip Street Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=36536140&index=15&q=Vermont+VIC+3133&qt=address&_qt=address&offset=17&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 4 Philip Street Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13679028&index=16&q=Vermont+VIC+3133&qt=address&_qt=address&offset=17&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 14 Philip Street Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13679039&index=17&q=Vermont+VIC+3133&qt=address&_qt=address&offset=17&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 1A Phyllis Court Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13679078&index=18&q=Vermont+VIC+3133&qt=address&_qt=address&offset=17&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-2 8 Phyllis Court Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=47939431&index=19&q=Vermont+VIC+3133&qt=address&_qt=address&offset=17&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 2A Premier Avenue Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=15902286&index=20&q=Vermont+VIC+3133&qt=address&_qt=address&offset=17&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 2B Premier Avenue Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=14451237&index=21&q=Vermont+VIC+3133&qt=address&_qt=address&offset=17&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 2C Premier Avenue Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=15951785&index=22&q=Vermont+VIC+3133&qt=address&_qt=address&offset=17&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-3 6 Premier Avenue Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13679089&index=23&q=Vermont+VIC+3133&qt=address&_qt=address&offset=17&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-5 18 Premier Avenue Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=16298110&index=26&q=Vermont+VIC+3133&qt=address&_qt=address&offset=17&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 20 Premier Avenue Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=11856884&index=31&q=Vermont+VIC+3133&qt=address&_qt=address&offset=17&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-2 22 Premier Avenue Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=14451246&index=32&q=Vermont+VIC+3133&qt=address&_qt=address&offset=17&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 135 Purches Street Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13679118&index=34&q=Vermont+VIC+3133&qt=address&_qt=address&offset=17&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-2 34 Redland Drive Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=15992468&index=35&q=Vermont+VIC+3133&qt=address&_qt=address&offset=17&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-15 173-181 Rooks Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13679175&index=36&q=Vermont+VIC+3133&qt=address&_qt=address&offset=17&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-6 59 Scott Street Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13679262&index=38&q=Vermont+VIC+3133&qt=address&_qt=address&offset=17&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 72 Scott Street Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13676633&index=43&q=Vermont+VIC+3133&qt=address&_qt=address&offset=17&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 Short Street Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=35099637&index=44&q=Vermont+VIC+3133&qt=address&_qt=address&offset=17&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-3 2 Short Street Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13679302&index=47&q=Vermont+VIC+3133&qt=address&_qt=address&offset=17&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 3A Short Street Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13679306&index=0&q=Vermont+VIC+3133&qt=address&_qt=address&offset=18&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 3B Short Street Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13679307&index=1&q=Vermont+VIC+3133&qt=address&_qt=address&offset=18&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-8 4 Short Street Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13679308&index=2&q=Vermont+VIC+3133&qt=address&_qt=address&offset=18&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 6 Short Street Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13679318&index=10&q=Vermont+VIC+3133&qt=address&_qt=address&offset=18&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 6A Short Street Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13679321&index=12&q=Vermont+VIC+3133&qt=address&_qt=address&offset=18&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-3 8 Short Street Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13679323&index=13&q=Vermont+VIC+3133&qt=address&_qt=address&offset=18&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-19 12 Short Street Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=14451251&index=15&q=Vermont+VIC+3133&qt=address&_qt=address&offset=18&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 16 Smithfield Walk Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13679348&index=31&q=Vermont+VIC+3133&qt=address&_qt=address&offset=18&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-16 7 Stevens Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=15562895&index=32&q=Vermont+VIC+3133&qt=address&_qt=address&offset=18&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 Terrara Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=15924603&index=48&q=Vermont+VIC+3133&qt=address&_qt=address&offset=18&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-10 2-4 Terrara Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=16573802&index=3&q=Vermont+VIC+3133&qt=address&_qt=address&offset=19&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-6 6 Terrara Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13679431&index=9&q=Vermont+VIC+3133&qt=address&_qt=address&offset=19&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-4 8 Terrara Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13679437&index=15&q=Vermont+VIC+3133&qt=address&_qt=address&offset=19&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-4 11 Terrara Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13679442&index=19&q=Vermont+VIC+3133&qt=address&_qt=address&offset=19&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-8 14 Terrara Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=16759757&index=23&q=Vermont+VIC+3133&qt=address&_qt=address&offset=19&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-2 16A Terrara Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13679458&index=31&q=Vermont+VIC+3133&qt=address&_qt=address&offset=19&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-5 18 Terrara Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17095169&index=33&q=Vermont+VIC+3133&qt=address&_qt=address&offset=19&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-10 21 Terrara Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=16980343&index=38&q=Vermont+VIC+3133&qt=address&_qt=address&offset=19&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-3 34 Terrara Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13679472&index=46&q=Vermont+VIC+3133&qt=address&_qt=address&offset=19&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-2 36 Terrara Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13679476&index=48&q=Vermont+VIC+3133&qt=address&_qt=address&offset=19&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-4 38 Terrara Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13679479&index=0&q=Vermont+VIC+3133&qt=address&_qt=address&offset=20&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-3 40 Terrara Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13679483&index=4&q=Vermont+VIC+3133&qt=address&_qt=address&offset=20&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-3 42 Terrara Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13679489&index=7&q=Vermont+VIC+3133&qt=address&_qt=address&offset=20&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-3 44 Terrara Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13679490&index=8&q=Vermont+VIC+3133&qt=address&_qt=address&offset=20&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-2 7 The Mews Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13679543&index=11&q=Vermont+VIC+3133&qt=address&_qt=address&offset=20&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-5 15-17 The Mews Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13679554&index=13&q=Vermont+VIC+3133&qt=address&_qt=address&offset=20&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 8 Trinian Street Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=44690082&index=18&q=Vermont+VIC+3133&qt=address&_qt=address&offset=20&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-2 12 Trinian Street Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13679759&index=19&q=Vermont+VIC+3133&qt=address&_qt=address&offset=20&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 1 Trove Park Drive Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13679773&index=21&q=Vermont+VIC+3133&qt=address&_qt=address&offset=20&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 14 Tucker Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13679799&index=22&q=Vermont+VIC+3133&qt=address&_qt=address&offset=20&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 7 Unley Court Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=37566943&index=23&q=Vermont+VIC+3133&qt=address&_qt=address&offset=20&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 2A Uralla Street Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=47117852&index=24&q=Vermont+VIC+3133&qt=address&_qt=address&offset=20&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 4 Uralla Street Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=44291963&index=25&q=Vermont+VIC+3133&qt=address&_qt=address&offset=20&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-6 11 View Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=16503918&index=26&q=Vermont+VIC+3133&qt=address&_qt=address&offset=20&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 3 Villa Mews Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=13679898&index=32&q=Vermont+VIC+3133&qt=address&_qt=address&offset=20&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 91 Willis Court Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=52488218&index=33&q=Vermont+VIC+3133&qt=address&_qt=address&offset=20&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 92 Willis Court Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=50144443&index=34&q=Vermont+VIC+3133&qt=address&_qt=address&offset=20&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-2 24 Woodcrest Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17826548&index=35&q=Vermont+VIC+3133&qt=address&_qt=address&offset=20&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      },
+      {
+        "Addres": "1-1 55 Woodcrest Road Vermont, VIC, 3133",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17258235&index=37&q=Vermont+VIC+3133&qt=address&_qt=address&offset=20&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Vermont VIC 3133"
+      }
+    ]
+  ]
+}

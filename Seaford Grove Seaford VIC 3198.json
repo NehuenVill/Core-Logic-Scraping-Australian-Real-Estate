@@ -1,0 +1,36 @@
+{
+  "Addresses and hrefs": [
+    [
+      {
+        "Addres": "1-1 54 Seaford Grove Seaford, VIC, 3198",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=14441168&index=0&q=Seaford+Grove+Seaford+VIC+3198&qt=address&_qt=address&offset=1&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Seaford Grove Seaford VIC 3198"
+      },
+      {
+        "Addres": "1-1 56 Seaford Grove Seaford, VIC, 3198",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=12980199&index=1&q=Seaford+Grove+Seaford+VIC+3198&qt=address&_qt=address&offset=1&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Seaford Grove Seaford VIC 3198"
+      },
+      {
+        "Addres": "1-2 59 Seaford Grove Seaford, VIC, 3198",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=16068793&index=2&q=Seaford+Grove+Seaford+VIC+3198&qt=address&_qt=address&offset=1&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Seaford Grove Seaford VIC 3198"
+      },
+      {
+        "Addres": "1-1 72 Seaford Grove Seaford, VIC, 3198",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=12980004&index=4&q=Seaford+Grove+Seaford+VIC+3198&qt=address&_qt=address&offset=1&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Seaford Grove Seaford VIC 3198"
+      },
+      {
+        "Addres": "1-1 73 Seaford Grove Seaford, VIC, 3198",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=49631832&index=5&q=Seaford+Grove+Seaford+VIC+3198&qt=address&_qt=address&offset=1&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Seaford Grove Seaford VIC 3198"
+      },
+      {
+        "Addres": "1-2 76 Seaford Grove Seaford, VIC, 3198",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=17377451&index=6&q=Seaford+Grove+Seaford+VIC+3198&qt=address&_qt=address&offset=1&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Seaford Grove Seaford VIC 3198"
+      }
+    ]
+  ]
+}

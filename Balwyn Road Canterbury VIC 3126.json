@@ -1,0 +1,26 @@
+{
+  "Addresses and hrefs": [
+    [
+      {
+        "Addres": "1-1 Balwyn Road Canterbury, VIC, 3126",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=34560899&index=0&q=Balwyn+Road+Canterbury+VIC+3126&qt=address&_qt=address&offset=1&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Balwyn Road Canterbury VIC 3126"
+      },
+      {
+        "Addres": "1-25 6 Balwyn Road Canterbury, VIC, 3126",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10253425&index=17&q=Balwyn+Road+Canterbury+VIC+3126&qt=address&_qt=address&offset=1&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Balwyn Road Canterbury VIC 3126"
+      },
+      {
+        "Addres": "1-5 12 Balwyn Road Canterbury, VIC, 3126",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10253448&index=42&q=Balwyn+Road+Canterbury+VIC+3126&qt=address&_qt=address&offset=1&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Balwyn Road Canterbury VIC 3126"
+      },
+      {
+        "Addres": "1-1 14 Balwyn Road Canterbury, VIC, 3126",
+        "Href": "https://rpp.rpdata.com/rpp/property/detail.html?propertyId=10253461&index=47&q=Balwyn+Road+Canterbury+VIC+3126&qt=address&_qt=address&offset=1&sort=address&limit=50&view=property&mode=&radius=1.0Km&landuse=All&propertyType=UNIT",
+        "Suburb": "Balwyn Road Canterbury VIC 3126"
+      }
+    ]
+  ]
+}

@@ -1,6 +1,8 @@
 from dataclasses import replace
+from email.mime import base
 from enum import unique
 import json
+from matplotlib.font_manager import json_load
 from selenium import webdriver
 import pandas as pd
 from selenium.webdriver.common.by import By
@@ -144,7 +146,7 @@ def get_links(url : str, suburbs : list):
             EC.presence_of_element_located((By.ID, "firstAddressLink"))
         )
 
-    for suburb in suburbs[1:]:
+    for suburb in suburbs[97:]:
         
         try:
 
@@ -202,10 +204,31 @@ def get_links(url : str, suburbs : list):
 
         sleep(10)
 
-        print('Starting scraping')
+        drop_down = wait_get_element(driver, (By.XPATH, '/html/body/div[1]/div[2]/div[2]/div[6]/div[1]/div[1]/div[4]/div[1]/div[1]/span[1]'))
+
+        drop_down.click()
+
+        choice = wait_get_element(driver, (By.XPATH, '/html/body/div[1]/div[2]/div[2]/div[6]/div[1]/div[1]/div[4]/div[1]/div[2]/ul/li[5]'))
+
+        choice.click()
+
+        print('Visible')
+        
+        element = WebDriverWait(driver, 5).until(
+                EC.presence_of_element_located((By.ID, "spinner"))
+            )
+
+        element = WebDriverWait(driver, 30).until(
+            EC.invisibility_of_element_located((By.ID, "spinner"))
+            )
+
+        print('Not visible')
+
+        sleep(10)
 
         try:
-            properties = driver.find_elements(By.CSS_SELECTOR ,'a.clickable')
+            
+            properties = driver.find_elements(By.CSS_SELECTOR, 'a.clickable')
 
         except NoSuchElementException:
 
@@ -219,11 +242,16 @@ def get_links(url : str, suburbs : list):
 
         while True:
 
-            #Reminder: Fix the units finder, addresses in general.
-
             for i in range(len(properties)):
 
-                prop = wait_get_element(driver, (By.XPATH, '/html/body/div[1]/div[2]/div[2]/div[6]/div[1]/div[%d]/div/div[3]/div[1]/h2/a' % (i+3)))
+                try:
+
+                    prop = wait_get_element(driver, (By.XPATH, '/html/body/div[1]/div[2]/div[2]/div[6]/div[1]/div[%d]/div/div[3]/div[1]/h2/a' % (i+3)))
+
+                except Exception as e:
+
+                    print(e)
+                    break
 
                 full_addres = prop.text
 
@@ -299,9 +327,9 @@ def get_links(url : str, suburbs : list):
 
             try:
                 try:
-                    next_btn = wait_get_element(driver, (By.XPATH, '/html/body/div[1]/div[2]/div[2]/div[6]/div[1]/div[23]/div[1]/div[3]/div/div/ul/li[6]'))
+                    next_btn = wait_get_element(driver, (By.XPATH, '/html/body/div[1]/div[2]/div[2]/div[6]/div[1]/div[53]/div[1]/div[3]/div/div/ul/li[6]'))
                 except NoSuchElementException:
-                    next_btn = wait_get_element(driver, (By.XPATH, '/html/body/div[1]/div[2]/div[2]/div[6]/div[1]/div[23]/div[1]/div[3]/div/div/ul/li[5]'))
+                    next_btn = wait_get_element(driver, (By.XPATH, '/html/body/div[1]/div[2]/div[2]/div[6]/div[1]/div[53]/div[1]/div[3]/div/div/ul/li[5]'))
 
                 driver.execute_script("arguments[0].scrollIntoView(true);", next_btn)
 
@@ -321,6 +349,8 @@ def get_links(url : str, suburbs : list):
 
                 break
 
+        information = []
+
         for i in range(len(unique_addresses)):
 
             output = {
@@ -329,15 +359,27 @@ def get_links(url : str, suburbs : list):
                 'Suburb' : suburb
             }
 
-            with open('Available Suburbs.json') as f:
+            information.append(output)
 
-                data = json.load(f)
 
-            with open('Available Suburbs.json', 'w') as f:
 
-                data['Addresses and hrefs'].append(output)
+        with open(f'{suburb}.json', 'w') as f:
 
-                json.dump(data, f, indent=2)
+            base_json ={
+                    "Addresses and hrefs" : []
+            }
+
+            json.dump(base_json, f, indent=2)
+
+        with open(f'{suburb}.json') as f:
+
+            data = json.load(f)
+
+        with open(f'{suburb}.json', 'w') as f:
+
+            data['Addresses and hrefs'].append(information)
+
+            json.dump(data, f, indent=2)
 
 
 def get_properties_info(url : str, properties : list):
@@ -354,9 +396,11 @@ def get_properties_info(url : str, properties : list):
             EC.presence_of_element_located((By.ID, "firstAddressLink"))
         )
 
-    for property in properties['Addesses and hrefs']:
+    for property in properties[6:]:
+
+        main_window = driver.current_window_handle
   
-        driver.execute_script(f"window.open({property['Href']}, 'secondtab');")
+        driver.execute_script(f"window.open(arguments[0], 'secondtab');", property['Href'])
         
         driver.switch_to.window("secondtab")
             
@@ -377,8 +421,10 @@ def get_properties_info(url : str, properties : list):
             bathrooms = driver.find_element(By.CLASS_NAME, 'attribute.bathroom').text
 
             car_spaces = driver.find_element(By.CLASS_NAME, 'attribute.carspace').text
-        
+        try:
             land_size_approx = driver.find_element(By.CLASS_NAME, 'attribute.landAreaEst').text
+        except NoSuchElementException:
+            land_size_approx = '-'
 
         try:
 
@@ -455,6 +501,8 @@ def get_properties_info(url : str, properties : list):
             last_sale_date = 'No info available'
         patt = r' VIC [0-9]*'
 
+        suburb = re.sub(patt, '', property['Suburb'])
+
         patt_add = r', VIC, [0-9]*'
 
         address_op = re.sub(patt_add, '', property['Addres'])
@@ -463,12 +511,12 @@ def get_properties_info(url : str, properties : list):
 
         units_match = re.search(units_patt, address_op)
 
-        units = units_match.group(1),replace('1-', '')
+        units = units_match.group(1).replace('1-', '')
 
         property_info = {
                 'Address' : address_op,
                 'URL' : property['Href'],
-                'Suburb': properties['Suburb'],
+                'Suburb': suburb,
                 'Property Type': property_type,
                 'Number of units' : units,
                 'Number of Bedrooms' : bedrooms,
@@ -497,6 +545,9 @@ def get_properties_info(url : str, properties : list):
 
         driver.close()
 
+        driver.switch_to.window(main_window)
+
+        WebDriverWait(driver, 40).until(EC.number_of_windows_to_be(1))       
 
 def ref_click(driver, loc):
 
@@ -504,20 +555,20 @@ def ref_click(driver, loc):
 
 def wait_get_element(driver, loc):
 
-    return WebDriverWait(driver, 10).until(EC.presence_of_element_located(loc))
+    return WebDriverWait(driver, 15).until(EC.presence_of_element_located(loc))
 
 
 def save_props(Prop_data):
 
     df = pd.DataFrame(Prop_data, columns=['Address', 'URL', 'Suburb',
-                                    'Property Type', 'Number of Bedrooms',
+                                    'Property Type', 'Number of units', 'Number of Bedrooms',
                                     'Number of Bathrooms', 'Number of Car Spaces',
                                     'Approx. Land Size', 'Multiple Owners / One Owner / No Owner',
                                     'Number of Owners', 'Owner/s name', 'Legal Data',
                                     'Last Sale Price', 'Last Sale Date'])
 
     df.to_excel("Properties_sample.xlsx", index=False, columns=['Address', 'URL', 'Suburb',
-                                    'Property Type', 'Number of Bedrooms',
+                                    'Property Type', 'Number of units', 'Number of Bedrooms',
                                     'Number of Bathrooms', 'Number of Car Spaces',
                                     'Approx. Land Size', 'Multiple Owners / One Owner / No Owner',
                                     'Number of Owners', 'Owner/s name', 'Legal Data',
@@ -527,4 +578,13 @@ def save_props(Prop_data):
 
 with open('Available Suburbs.json') as f:
 
-    get_links(url, json.load(f)['Available Suburbs'])
+    #get_links(url, json.load(f)['Available Suburbs'])
+    get_properties_info(url, json.load(f)['Addresses and hrefs'])
+
+
+"""
+with open('Properties.json') as f:
+
+    save_props(json.load(f)['Properties'])
+
+"""
